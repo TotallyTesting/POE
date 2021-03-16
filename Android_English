@@ -1,2 +1,4114 @@
-ho
-ho
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: gettu\n"
+"Language: ar\n"
+
+#: 
+msgctxt "Telemetry"
+msgid "TELEMETRY"
+msgstr "أجهزة القياس"
+
+#: 
+msgctxt "Car"
+msgid "VEHICLE"
+msgstr "VEHICLE"
+
+#: 
+msgctxt "Telephone"
+msgid "TELEPHONE"
+msgstr "هاتف"
+
+#: 
+msgctxt "Info"
+msgid "INFO"
+msgstr "INFO"
+
+#: 
+msgctxt "Navigation"
+msgid "NAVIGATION"
+msgstr "ملاحة"
+
+#: 
+msgctxt "Media"
+msgid "MEDIA"
+msgstr "الوسائط"
+
+#: 
+msgctxt "Radio"
+msgid "RADIO"
+msgstr "راديو"
+
+#: 
+msgctxt "Tone"
+msgid "SOUND"
+msgstr "صوت"
+
+#: 
+msgctxt "AppleCarPlay"
+msgid "APPLE\n"
+"CARPLAY"
+msgstr "APPLE\n"
+"CARPLAY"
+
+#: 
+msgctxt "AndroidAuto"
+msgid "ANDROID\n"
+"AUTO"
+msgstr "ANDROID\n"
+"AUTO"
+
+#: 
+msgctxt "Smartphone"
+msgid "SMARTPHONE"
+msgstr "SMARTPHONE"
+
+#: 
+msgctxt "WrongPassword"
+msgid "Wrong password"
+msgstr "كلمة المرور خاطئة"
+
+#: 
+msgctxt "CarSettings"
+msgid "Vehicle"
+msgstr "VEHICLE"
+
+#: 
+msgctxt "ServicingAndChecks"
+msgid "Servicing and checks"
+msgstr "الخدمة والفحوص"
+
+#: 
+msgctxt "WiperChangePosition"
+msgid "Wiper change position"
+msgstr "موضع تغيير الماسحة"
+
+#: 
+msgctxt "TelephoneCallVolume"
+msgid "Telephone call volume"
+msgstr "مستوى صوت المكالمة الهاتفية"
+
+#: 
+msgctxt "InitializedKeys"
+msgid "Initialized keys"
+msgstr "مفاتيح مهيئة"
+
+#: 
+msgctxt "DriverAssist"
+msgid "Driver assist"
+msgstr "مساعد السائق"
+
+#: 
+msgctxt "SpeedWarning"
+msgid "Speed warning"
+msgstr "تحذير السرعة"
+
+#: 
+msgctxt "ParkingAid"
+msgid "Parking aid"
+msgstr "مساعد الركن"
+
+#: 
+msgctxt "RainSensor"
+msgid "Rain sensor"
+msgstr "مستشعر المطر"
+
+#: 
+msgctxt "Lighting"
+msgid "Lighting"
+msgstr "الإضافة"
+
+#: 
+msgctxt "ExteriorLight"
+msgid "Exterior light"
+msgstr "المصباح الخارجي"
+
+#: 
+msgctxt "Locking"
+msgid "Locking"
+msgstr "قفل"
+
+#: 
+msgctxt "DoorsAndMirrors"
+msgid "Doors and mirrors"
+msgstr "الأبواب والمرايا"
+
+#: 
+msgctxt "AutomaticHeadlights"
+msgid "Automatic headlights"
+msgstr "المصابيح الأمامية الأوتوماتيكية"
+
+#: 
+msgctxt "Early"
+msgid "Early"
+msgstr "مبكر"
+
+#: 
+msgctxt "Medium"
+msgid "Medium"
+msgstr "متوسط"
+
+#: 
+msgctxt "Late"
+msgid "Late"
+msgstr "متأخر"
+
+#: 
+msgctxt "FoldMirrors"
+msgid "Fold mirrors"
+msgstr "المرايا القابلة للطي"
+
+#: 
+msgctxt "All"
+msgid "All"
+msgstr "الجميع"
+
+#: 
+msgctxt "UnlockDoors"
+msgid "Unlock doors"
+msgstr "فتح الأبواب"
+
+#: 
+msgctxt "TitleRainSensor"
+msgid "Rain sensor"
+msgstr "مستشعر المطر"
+
+#: 
+msgctxt "AutomaticWipers"
+msgid "Automatic wipers"
+msgstr "الماسحات الأوتوماتيكية"
+
+#: 
+msgctxt "ComingHome"
+msgid "Coming home"
+msgstr "الإضاءة عند القدوم إلى المنزل"
+
+#: 
+msgctxt "LeftDriving"
+msgid "Lights for driving on left"
+msgstr "أضواء للقيادة على اليسار"
+
+#: 
+msgctxt "LeavingHome"
+msgid "Leaving home"
+msgstr "ترك المنزل"
+
+#: 
+msgctxt "NumberOfKeysInitialized"
+msgid "Number of initialized keys"
+msgstr "عدد المفاتيح المفعلة"
+
+#: 
+msgctxt "NumberOfKeysInitializedFromCar"
+msgid "Number of keys initialized from car"
+msgstr "Number of keys initialized from car"
+
+#: 
+msgctxt "ChassisNumber"
+msgid "Chassis number"
+msgstr "رقم الشاسيه"
+
+#: 
+msgctxt "VehicleIdentificationNumber"
+msgid "Vehicle identification number"
+msgstr "Vehicle identification number"
+
+#: 
+msgctxt "WiperServicePosition"
+msgid "Wiper service position"
+msgstr "موضع خدمة الماسحة"
+
+#: 
+msgctxt "ServicePosition"
+msgid "Service position"
+msgstr "موضع الخدمة"
+
+#: 
+msgctxt "CeremonyPage"
+msgid "Ceremony Page"
+msgstr "Ceremony Page"
+
+#: 
+msgctxt "TitleParkingAid"
+msgid "Parking aid"
+msgstr "مساعد الركن"
+
+#: 
+msgctxt "ShowParkingSensor"
+msgid "Show parking sensor"
+msgstr "عرض مستشعر الركن"
+
+#: 
+msgctxt "FrontVolume"
+msgid "Front volume"
+msgstr "المستوى الأمامي"
+
+#: 
+msgctxt "FrontFrequency"
+msgid "Front frequency"
+msgstr "التردد الأمامي"
+
+#: 
+msgctxt "RearVolume"
+msgid "Rear volume"
+msgstr "المستوى الخلفي"
+
+#: 
+msgctxt "RearFrequency"
+msgid "Rear frequency"
+msgstr "التردد الخلفي"
+
+#: 
+msgctxt "InCarEntertainmentFader"
+msgid "In-car entertainment fader"
+msgstr "خافت الترفيه داخل السيارة"
+
+#: 
+msgctxt "SetSpeed"
+msgid "Set speed"
+msgstr "ضبط السرعة"
+
+#: 
+msgctxt "SoftwareUpdate"
+msgid "Software Update"
+msgstr "Software Update"
+
+#: 
+msgctxt "SoftwareRev"
+msgid "Software Rev"
+msgstr "Software Rev"
+
+#: 
+msgctxt "BootloaderRev"
+msgid "Bootloader Rev"
+msgstr "Bootloader Rev"
+
+#: 
+msgctxt "DTBRev"
+msgid "DTB Rev"
+msgstr "DTB Rev"
+
+#: 
+msgctxt "KernelRev"
+msgid "Kernel Rev"
+msgstr "Kernel Rev"
+
+#: 
+msgctxt "FileSystemRev"
+msgid "File System Rev"
+msgstr "File System Rev"
+
+#: 
+msgctxt "MCUBootloader"
+msgid "MCU Bootloader"
+msgstr "MCU Bootloader"
+
+#: 
+msgctxt "MCUApplicationA"
+msgid "MCU Application A"
+msgstr "MCU Application A"
+
+#: 
+msgctxt "MCUApplicationB"
+msgid "MCU Application B"
+msgstr "MCU Application B"
+
+#: 
+msgctxt "LIDUBoot"
+msgid "LIDU Boot"
+msgstr "LIDU Boot"
+
+#: 
+msgctxt "LIDUApp"
+msgid "LIDU App"
+msgstr "LIDU App"
+
+#: 
+msgctxt "RadioFM"
+msgid "Radio FM"
+msgstr "Radio FM"
+
+#: 
+msgctxt "EngineeringMenu"
+msgid "ENGINEERING MENU"
+msgstr "ENGINEERING MENU"
+
+#: 
+msgctxt "SystemInfo"
+msgid "SYSTEM INFO"
+msgstr "SYSTEM INFO"
+
+#: 
+msgctxt "ICUSerialNumber"
+msgid "ICU Serial Number"
+msgstr "ICU Serial Number"
+
+#: 
+msgctxt "ICUHardwareNumber"
+msgid "ICU Hardware Number"
+msgstr "ICU Hardware Number"
+
+#: 
+msgctxt "LamborghiniPartNumber"
+msgid "Lamborghini Part Number"
+msgstr "Lamborghini Part Number"
+
+#: 
+msgctxt "MACAddress"
+msgid "MAC Address"
+msgstr "MAC Address"
+
+#: 
+msgctxt "BluetoothMacAddress"
+msgid "BluetTooth MAC Ad"
+msgstr "Bluetooth MAC Ad"
+
+#: 
+msgctxt "CarModelName"
+msgid "Car Model Name"
+msgstr "Car Model Name"
+
+#: 
+msgctxt "CarModelVariant"
+msgid "Car Model Variant"
+msgstr "Car Model Variant"
+
+#: 
+msgctxt "Market"
+msgid "Market"
+msgstr "Market"
+
+#: 
+msgctxt "Country"
+msgid "Country"
+msgstr "Country"
+
+#: 
+msgctxt "DefaultLanguage"
+msgid "Default Language"
+msgstr "Default Language"
+
+#: 
+msgctxt "OwnerName"
+msgid "Owner Name"
+msgstr "Owner Name"
+
+#: 
+msgctxt "TitleGeneralSettings"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "Security"
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#: 
+msgctxt "Wireless"
+msgid "Wireless"
+msgstr "لاسلكي"
+
+#: 
+msgctxt "Display"
+msgid "Display"
+msgstr "شاشة العرض"
+
+#: 
+msgctxt "Language"
+msgid "Language"
+msgstr "اللغة / Language"
+
+#: 
+msgctxt "Measurements"
+msgid "Units of measurement"
+msgstr "وحدات القياس"
+
+#: 
+msgctxt "DateAndTime"
+msgid "Date and time"
+msgstr "التاريخ والوقت"
+
+#: 
+msgctxt "SIM"
+msgid "SIM"
+msgstr "SIM"
+
+#: 
+msgctxt "AutoBrightness"
+msgid "Auto brightness"
+msgstr "سطوع أوتوماتيكي"
+
+#: 
+msgctxt "Brightness"
+msgid "Brightness"
+msgstr "سطوع"
+
+#: 
+msgctxt "GPSStatus"
+msgid "Status"
+msgstr "الحالة"
+
+#: 
+msgctxt "SatelliteNumber"
+msgid "Number of satellites"
+msgstr "عدد الأقمار الصناعية"
+
+#: 
+msgctxt "Latitude"
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: 
+msgctxt "Longitude"
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: 
+msgctxt "SampleTotalDiskSpaceAmountValue"
+msgid "4000000 MB"
+msgstr "4000000 MB"
+
+#: 
+msgctxt "SampleUsedDiskSpaceAmountValue"
+msgid "1000 MB"
+msgstr "1000 MB"
+
+#: 
+msgctxt "SampleItemFolderName"
+msgid "Item2 Folder Name"
+msgstr "Item2 Folder Name"
+
+#: 
+msgctxt "SampleFolderTitle"
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgctxt "TitleLanguage"
+msgid "Language"
+msgstr "اللغة / Language"
+
+#: 
+msgctxt "SampleItemTitle"
+msgid "Item 1"
+msgstr "Item 1"
+
+#: 
+msgctxt "Web"
+msgid "WEB"
+msgstr "WEB"
+
+#: 
+msgctxt "Setup"
+msgid "SETTINGS"
+msgstr "Settings"
+
+#: 
+msgctxt "MeasurementUnits"
+msgid "Measurement units"
+msgstr "وحدات القياس"
+
+#: 
+msgctxt "Temperature"
+msgid "Temperature"
+msgstr "درجة الحرارة"
+
+#: 
+msgctxt "Distance"
+msgid "Distance"
+msgstr "المسافة"
+
+#: 
+msgctxt "Speed"
+msgid "Speed"
+msgstr "السرعة"
+
+#: 
+msgctxt "Consumption"
+msgid "Fuel consumption"
+msgstr "الاستهلاك"
+
+#: 
+msgctxt "TitleMedia"
+msgid "Media"
+msgstr "الوسائط"
+
+#: 
+msgctxt "SampleNegativeTime"
+msgid "-155:18"
+msgstr "155:18-"
+
+#: 
+msgctxt "SamplePositiveTime"
+msgid "222:33"
+msgstr "222:33"
+
+#: 
+msgctxt "Artist/Band"
+msgid "Artist/Band"
+msgstr "Artist/Band"
+
+#: 
+msgctxt "SongNameLine1"
+msgid "Song Name Line 1\n"
+""
+msgstr "Song Name Line 1"
+
+#: 
+msgctxt "SongNameLine2"
+msgid "\n"
+"Song Name Line 2"
+msgstr "Song Name Line 2"
+
+#: 
+msgctxt "PlayerTitleBluetooth"
+msgid "BLUETOOTH"
+msgstr "بلوتوث"
+
+#: 
+msgctxt "ImportFromUSB"
+msgid "Import from USB"
+msgstr "استيراد من USB"
+
+#: 
+msgctxt "InternalMemoryManagement"
+msgid "Internal Memory Management"
+msgstr "إدارة الذاكرة الداخلية"
+
+#: 
+msgctxt "InternalMemoryManagementFolderName"
+msgid "Folder Name"
+msgstr "Folder Name"
+
+#: 
+msgctxt "TitlePictures"
+msgid "Pictures"
+msgstr "Pictures"
+
+#: 
+msgctxt "Search"
+msgid "Search"
+msgstr "البحث عن"
+
+#: 
+msgctxt "TitleSettings"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "TitleVideo"
+msgid "Video"
+msgstr "Video"
+
+#: 
+msgctxt "Text"
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgctxt "Phone"
+msgid "Phone"
+msgstr "الهاتف"
+
+#: 
+msgctxt "Attivo"
+msgid "Active"
+msgstr "نشط"
+
+#: 
+msgctxt "AvailableDevices"
+msgid "Available devices"
+msgstr "الأجهزة المتاحة"
+
+#: 
+msgctxt "PairedDevices"
+msgid "Paired devices"
+msgstr "الأجهزة المقرونة"
+
+#: 
+msgctxt "TitleTelephone"
+msgid "Telephone"
+msgstr "هاتف"
+
+#: 
+msgctxt "TitleOptions"
+msgid "Options"
+msgstr "الخيارات"
+
+#: 
+msgctxt "AutomaticSynchronization"
+msgid "Automatic synchronization"
+msgstr "المزامنة الأوتوماتيكية"
+
+#: 
+msgctxt "ManageDevices"
+msgid "Manage devices"
+msgstr "إدارة الأجهزة"
+
+#: 
+msgctxt "SynchronizeContacts"
+msgid "Synchronize contacts"
+msgstr "مزامنة جهات الاتصال"
+
+#: 
+msgctxt "TitleWebRadio"
+msgid "Web Radio"
+msgstr "راديو الويب"
+
+#: 
+msgctxt "TitleCountries"
+msgid "Countries"
+msgstr "الدول"
+
+#: 
+msgctxt "TitleGenres"
+msgid "Genres"
+msgstr "الأنواع"
+
+#: 
+msgctxt "TitleRadio"
+msgid "Radio"
+msgstr "راديو"
+
+#: 
+msgctxt "AlternativeFrequencyAF"
+msgid "Alternative frequency (AF)"
+msgstr "التردد البديل (AF)"
+
+#: 
+msgctxt "TrafficProgramTP"
+msgid "Traffic program (TP)"
+msgstr "برنامج المرور (TP)"
+
+#: 
+msgctxt "SeamlessDabFm"
+msgid "Seamless DAB/FM"
+msgstr "سلس DAB/FM"
+
+#: 
+msgctxt "DeletePresets"
+msgid "Delete preset"
+msgstr "حذف الإعداد المسبق"
+
+#: 
+msgctxt "WebRadioCountry"
+msgid "Web Radio Country"
+msgstr "راديو الويب الدول"
+
+#: 
+msgctxt "TitleGenre"
+msgid "Genre"
+msgstr "Genre"
+
+#: 
+msgctxt "Top10"
+msgid "TOP 10"
+msgstr "أعلى 10"
+
+#: 
+msgctxt "./MainText"
+msgid "./MainText"
+msgstr "./MainText"
+
+#: 
+msgctxt "./SearchText"
+msgid "./SearchText"
+msgstr "./SearchText"
+
+#: 
+msgctxt "TitleSecurity"
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#: 
+msgctxt "PinRequestOnStartup"
+msgid "PIN Req. on startup"
+msgstr "طلب رقم التعريف الشخصي عند بدء التشغيل"
+
+#: 
+msgctxt "ChangePin"
+msgid "Change PIN"
+msgstr "تغيير PIN"
+
+#: 
+msgctxt "DeleteAllData"
+msgid "Delete all data"
+msgstr "حذف جميع البيانات"
+
+#: 
+msgctxt "TitleSetTimeAndDate"
+msgid "Date and time"
+msgstr "التاريخ والوقت"
+
+#: 
+msgctxt "SetDate"
+msgid "Set date"
+msgstr "ضبط التاريخ"
+
+#: 
+msgctxt "SetTime"
+msgid "Set time"
+msgstr "ضبط الوقت"
+
+#: 
+msgctxt "DateFormat"
+msgid "Date format"
+msgstr "تنسيق التاريخ"
+
+#: 
+msgctxt "TimeFormat"
+msgid "Time format"
+msgstr "تنسيق الوقت"
+
+#: 
+msgctxt "AutomaticUpdate"
+msgid "Automatic update"
+msgstr "تحديث أوتوماتيكي"
+
+#: 
+msgctxt "TitleSetDate"
+msgid "Set date"
+msgstr "ضبط التاريخ"
+
+#: 
+msgctxt "TitleSetTime"
+msgid "Set time"
+msgstr "ضبط الوقت"
+
+#: 
+msgctxt "TitleSound"
+msgid "Sound"
+msgstr "صوت"
+
+#: 
+msgctxt "SoundBalance"
+msgid "Balance"
+msgstr "توازن"
+
+#: 
+msgctxt "Equalization"
+msgid "Equalisation"
+msgstr "المعادلة"
+
+#: 
+msgctxt "MediaVolume"
+msgid "Entertainment volume"
+msgstr "مستوى صوت الترفيه"
+
+#: 
+msgctxt "PhoneVolume"
+msgid "Telephone call volume"
+msgstr "مستوى صوت المكالمة الهاتفية"
+
+#: 
+msgctxt "VocalAssistantVolume"
+msgid "Vocal assistant volume"
+msgstr "مستوى صوت المساعد الصوتي"
+
+#: 
+msgctxt "NavigationVolume"
+msgid "Navigation volume"
+msgstr "مستوى صوت التصفح"
+
+#: 
+msgctxt "TitleEqualization"
+msgid "Equalisation"
+msgstr "المعادلة"
+
+#: 
+msgctxt "Treble"
+msgid "Treble"
+msgstr "الإيقاع"
+
+#: 
+msgctxt "Bass"
+msgid "Bass"
+msgstr "جهير"
+
+#: 
+msgctxt "TitleChronology"
+msgid "Chronology"
+msgstr "سجل الأحداث"
+
+#: 
+msgctxt "Favorites"
+msgid "Favorites"
+msgstr "المُفضلة"
+
+#: 
+msgctxt "TitleWebBrowser"
+msgid "Web Browser"
+msgstr "متصفح الويب"
+
+#: 
+msgctxt "SetSearchEngine"
+msgid "Set search engine"
+msgstr "تعيين محرك البحث"
+
+#: 
+msgctxt "SetHomePage"
+msgid "Set homepage"
+msgstr "تعيين الصفحة الرئيسية"
+
+#: 
+msgctxt "DeleteData"
+msgid "Delete data"
+msgstr "حذف البيانات"
+
+#: 
+msgctxt "PrivacyMode"
+msgid "Privacy mode"
+msgstr "وضع الخصوصية"
+
+#: 
+msgctxt "TitleSetHomePage"
+msgid "Set homepage"
+msgstr "تعيين الصفحة الرئيسية"
+
+#: 
+msgctxt "TitleCurrentHomePage"
+msgid "Current homepage"
+msgstr "الصفحة الرئيسية الحالية"
+
+#: 
+msgctxt "SampleWebsiteUrl1"
+msgid "www.lamborghini.com"
+msgstr "www.lamborghini.com"
+
+#: 
+msgctxt "TitleCurrentPage"
+msgid "Current page"
+msgstr "الصفحة الحالية"
+
+#: 
+msgctxt "SampleWebsiteUrl2"
+msgid "www.google.com"
+msgstr "www.google.com"
+
+#: 
+msgctxt "SetAsHomePage"
+msgid "Set as homepage"
+msgstr "تعيين كصفحة رئيسية"
+
+#: 
+msgctxt "TitleSetSearchEngine"
+msgid "Set search"
+msgstr "تعيين البحث"
+
+#: 
+msgctxt "HotspotMode"
+msgid "Hotspot mode"
+msgstr "وضع نقطة ساخنة"
+
+#: 
+msgctxt "TitleClientMode"
+msgid "Client mode"
+msgstr "وضع العميل"
+
+#: 
+msgctxt "TitleInsertPassword"
+msgid "Insert password"
+msgstr "أدخل كلمة المرور"
+
+#: 
+msgctxt "TitleConfigureClientMode"
+msgid "Configure client mode"
+msgstr "تكوين وضع العميل"
+
+#: 
+msgctxt "TitleAvailableNetworks"
+msgid "Available networks"
+msgstr "الشبكات المتاحة"
+
+#: 
+msgctxt "SampleNetworkName"
+msgid "Network"
+msgstr "Network"
+
+#: 
+msgctxt "SampleNetworkStatus"
+msgid "Status"
+msgstr "الحالة"
+
+#: 
+msgctxt "TitleHotSpotMode"
+msgid "Hotspot mode"
+msgstr "وضع نقطة ساخنة"
+
+#: 
+msgctxt "TitleSSID"
+msgid "SSID"
+msgstr "SSID"
+
+#: 
+msgctxt "TitlePassword"
+msgid "Password"
+msgstr "Password"
+
+#: 
+msgctxt "SampleSSIDItem"
+msgid "SSID 1"
+msgstr "SSID 1"
+
+#: 
+msgctxt "SamplePassword"
+msgid "P4ssw0rd"
+msgstr "P4ssw0rd"
+
+#: 
+msgctxt "TitleConnectedClients"
+msgid "Connected clients"
+msgstr "العملاء المتصلون"
+
+#: 
+msgctxt "TitleInsertSSIDName"
+msgid "Insert SSID name"
+msgstr "أدخل اسم SSID"
+
+#: 
+msgctxt "ConsumptionMeasurementUnit"
+msgid "Fuel consumption\n"
+"measurement unit"
+msgstr "وحدة قياس الاستهلاك"
+
+#: 
+msgctxt "ConsumptionMeasurementUnitLitersPer100Km"
+msgid "l/100 km"
+msgstr "l/100 km"
+
+#: 
+msgctxt "ConsumptionMeasurementUnitKmPerLitre"
+msgid "km/l"
+msgstr "km/l"
+
+#: 
+msgctxt "ConsumptionMeasurementUnitMpg/nUS"
+msgid "mpg (US)"
+msgstr "mpg (US)"
+
+#: 
+msgctxt "ConsumptionMeasurementUnitMpg/nUK"
+msgid "mpg (UK)"
+msgstr "mpg (UK)"
+
+#: 
+msgctxt "DateFormatDDMMYY"
+msgid "dd/mm/yy"
+msgstr "يوم/شهر/سنة"
+
+#: 
+msgctxt "DateFormatMMDDYY"
+msgid "mm/dd/yy"
+msgstr "شهر/يوم/سنة"
+
+#: 
+msgctxt "DateFormatYYMMDD"
+msgid "yy/mm/dd"
+msgstr "سنة/شهر/يوم"
+
+#: 
+msgctxt "SelectSource"
+msgid "Select a source"
+msgstr "تحديد المصدر"
+
+#: 
+msgctxt "DistanceMeasurementUnitKm"
+msgid "km"
+msgstr "km"
+
+#: 
+msgctxt "DistanceMeasurementUnitMiles"
+msgid "mi"
+msgstr "mi"
+
+#: 
+msgctxt "DistanceMeasurementUnit"
+msgid "Distance\n"
+"measurement unit"
+msgstr "وحدة قياس\n"
+" المسافة"
+
+#: 
+msgctxt "DoYouWantToUpdateTheSoftware"
+msgid "Do you want to\n"
+"update the software?"
+msgstr "Do you want to\n"
+"update the software?"
+
+#: 
+msgctxt "SoftwareUpdateFailed"
+msgid "Software update failed"
+msgstr "Software update failed"
+
+#: 
+msgctxt "UpdatingSoftware"
+msgid "Software update in progress"
+msgstr "Software update in progress"
+
+#: 
+msgctxt "SoftwareUpdateFixedValue"
+msgid "/21"
+msgstr "/21"
+
+#: 
+msgctxt "SoftwareSuccessfullyUpdatedClickButtonToRebootSystem"
+msgid "Software update successful"
+msgstr "Software update successful"
+
+#: 
+msgctxt "CompletedSync"
+msgid "Completed\n"
+"sync"
+msgstr "اكتملت\n"
+"المزامنة"
+
+#: 
+msgctxt "OperationFailed"
+msgid "Operation Failed"
+msgstr "فشلت العملية"
+
+#: 
+msgctxt "TemperatureSelectorFloatValueDivider"
+msgid "."
+msgstr "."
+
+#: 
+msgctxt "TemperatureSelectorCelsiusDegreeSymbol"
+msgid "c"
+msgstr "c"
+
+#: 
+msgctxt "TemperatureSelectorDegreeSymbol"
+msgid "°"
+msgstr "°"
+
+#: 
+msgctxt "TemperatureLimitMaximum"
+msgid "HIGH"
+msgstr "HIGH"
+
+#: 
+msgctxt "TemperatureLimitMinimum"
+msgid "LOW"
+msgstr "LOW"
+
+#: 
+msgid "0"
+msgstr "0"
+
+#: 
+msgctxt "9"
+msgid "9"
+msgstr "9"
+
+#: 
+msgctxt "8"
+msgid "8"
+msgstr "8"
+
+#: 
+msgctxt "7"
+msgid "7"
+msgstr "7"
+
+#: 
+msgctxt "6"
+msgid "6"
+msgstr "6"
+
+#: 
+msgctxt "5"
+msgid "5"
+msgstr "5"
+
+#: 
+msgctxt "4"
+msgid "4"
+msgstr "4"
+
+#: 
+msgctxt "3"
+msgid "3"
+msgstr "3"
+
+#: 
+msgctxt "2"
+msgid "2"
+msgstr "2"
+
+#: 
+msgctxt "/"
+msgid "/"
+msgstr "/"
+
+#: 
+msgctxt "._1"
+msgid "."
+msgstr "."
+
+#: 
+msgctxt ","
+msgid ","
+msgstr ","
+
+#: 
+msgctxt "°_1"
+msgid "°"
+msgstr "°"
+
+#: 
+msgid "\""
+msgstr "\"\\"
+
+#: 
+msgctxt "'"
+msgid "'"
+msgstr "'"
+
+#: 
+msgctxt "KeyboardMinus"
+msgid "-"
+msgstr "-"
+
+#: 
+msgctxt "KeyboardBracketRoundOpen"
+msgid "("
+msgstr ")"
+
+#: 
+msgctxt "KeyboardBracketRoundClose"
+msgid ")"
+msgstr ")"
+
+#: 
+msgctxt "KeyboardAsterisk"
+msgid "*"
+msgstr "*"
+
+#: 
+msgctxt "KeyboardAt"
+msgid "@"
+msgstr "@"
+
+#: 
+msgctxt "KeyboardAmpersand"
+msgid "&"
+msgstr "&"
+
+#: 
+msgctxt "KeyboardOctothorphe"
+msgid "#"
+msgstr "#"
+
+#: 
+msgctxt "KeyboardUnderscore"
+msgid "_"
+msgstr "_"
+
+#: 
+msgctxt "KeyboardExclamationMark"
+msgid "!"
+msgstr "!"
+
+#: 
+msgctxt "KeyboardDollar"
+msgid "$"
+msgstr "$"
+
+#: 
+msgctxt "abc"
+msgid "abc"
+msgstr "abc"
+
+#: 
+msgctxt "KeyboardSpacebarName"
+msgid "SPACE"
+msgstr "SPACE"
+
+#: 
+msgctxt "g"
+msgid "g"
+msgstr "g"
+
+#: 
+msgctxt "a"
+msgid "a"
+msgstr "لقد نسيت كلمة المرور"
+
+#: 
+msgctxt "SampleSongName2Lines"
+msgid "Song Name\n"
+"Song Name"
+msgstr "Song Name\n"
+"Song Name"
+
+#: 
+msgctxt "SelectAContentType"
+msgid "Select a function"
+msgstr "اختيار الوظيفة"
+
+#: 
+msgctxt "SampleSongName1Line"
+msgid "SongName"
+msgstr "SongName"
+
+#: 
+msgctxt "SampleMoodMessage"
+msgid "MoodMessage"
+msgstr "MoodMessage"
+
+#: 
+msgctxt "SampleStationNameAndFrequency"
+msgid "StationName <freq>"
+msgstr "StationName <freq>"
+
+#: 
+msgctxt "FunctionNotAvailableInsertHandBrakeAndDeinsertGear"
+msgid "Function not available\n"
+"when vehicle is moving.\n"
+"\n"
+"Apply the parking brake\n"
+"and shift out of gear (N) or (P)"
+msgstr "الوظيفة غير متاحة عندما تتحرك المركبة. \n"
+"\n"
+"قم بتعشيق فرامل الانتظار والانتقال من الترس (N) أو (P)"
+
+#: 
+msgctxt "AndroidAutoHasDisconnectedThePairedDeviceViaBluetooth"
+msgid "Android Auto has disconnected\n"
+"the device paired via Bluetooth"
+msgstr "Android Auto has disconnected\n"
+"the device paired via Bluetooth"
+
+#: 
+msgctxt "ToUseAndroidAutoPleaseStopCarAndFollowInstructionsOnPhone"
+msgid "To use Android Auto please stop\n"
+"your car and follow the\n"
+"instructions on your phone"
+msgstr "To use Android Auto please stop\n"
+"your car and follow the\n"
+"instructions on your phone"
+
+#: 
+msgctxt "FunctionNotAvailableDisconnectSmartphoneFromUsbToEnable"
+msgid "Function not available\n"
+"when\n"
+"smartphone is connected.\n"
+"\n"
+"Unplug the device."
+msgstr "الوظيفة غير متاحة\n"
+"عند توصيل الهاتف\n"
+" الذكي.\n"
+"\n"
+" افصل الجهاز."
+
+#: 
+msgctxt "FunctionNotAvailableWhileVehicleIsMoving"
+msgid "Function not available\n"
+"when vehicle is moving.\n"
+"\n"
+"Apply the parking brake\n"
+"and shift out of gear (N) or (P)"
+msgstr "الوظيفة غير متاحة عندما تتحرك المركبة. \n"
+"\n"
+"قم بتعشيق فرامل الانتظار والانتقال من الترس (N) أو (P)"
+
+#: 
+msgctxt "ConnectingToDevice"
+msgid "Connecting..."
+msgstr "اتصال..."
+
+#: 
+msgctxt "Pin"
+msgid "PIN:"
+msgstr "PIN:"
+
+#: 
+msgctxt "DoYouWantToUnpairOrDisconnectTheDevice"
+msgid "Do you want to\n"
+"disconnect or unpair?"
+msgstr "هل تريد قطع اتصال\n"
+"أم قطع الاقتران؟"
+
+#: 
+msgctxt "DoYouWantToDisconnectTheConnectedDeviceAndConnectTheSelectedOne"
+msgid "Do you want to disconnect\n"
+"the current device\n"
+"and connect the selected one?"
+msgstr "هل تريد فصل\n"
+"الجهاز الحالي وتوصيل\n"
+"الجهاز المختار؟"
+
+#: 
+msgctxt "NoDeviceConnectedDoYouWantToPairOrConnectADevice"
+msgid "No device connected.\n"
+"Do you want to\n"
+"connect a device or pair a new one?"
+msgstr "لم يتم توصيل جهاز.\n"
+"هل تريد توصيل جهاز أم إقران جهاز جديد؟"
+
+#: 
+msgctxt "SearchInProgress"
+msgid "Search in progress..."
+msgstr "البحث قيد التقدم..."
+
+#: 
+msgctxt "Sync"
+msgid "Sync in progress..."
+msgstr "المزامنة قيد التقدم..."
+
+#: 
+msgctxt "TitleInsertNewPin"
+msgid "Insert new PIN"
+msgstr "قم بإدخال PIN جديد"
+
+#: 
+msgctxt "PinConfirmNew"
+msgid "Confirm new PIN"
+msgstr "قم بتأكيد PIN جديد"
+
+#: 
+msgctxt "PinInsertCurrent"
+msgid "Insert current PIN"
+msgstr "قم بإدخال PIN سارٍ"
+
+#: 
+msgctxt "WarningLastTrialWrongCodeWillBlockSystem"
+msgid "Wrong PIN\n"
+"last chance"
+msgstr "خطأ PIN \n"
+"الفرصة الأخيرة"
+
+#: 
+msgctxt "OngoingSystemHaltingProcess"
+msgid "Halting the system..."
+msgstr "إيقاف النظام..."
+
+#: 
+msgctxt "TurnEngineOnToKeepSystemAlive"
+msgid "Turn engine ON\n"
+"to keep system alive"
+msgstr "شغل المحرك\n"
+"للحفاظ على النظام نشطا"
+
+#: 
+msgctxt "TurnEngineOnOrSystemWillHaltInMinutes"
+msgid "Turn Engine ON\n"
+"or I'll turn OFF in"
+msgstr "شغل المحرك\n"
+"وإلا سأقوم بإيقاف التشغيل"
+
+#: 
+msgctxt "Minutes"
+msgid "MINUTES"
+msgstr "الدقائق"
+
+#: 
+msgctxt "DoYouWantToDeletePresetRadioStation"
+msgid "Do you want to delete\n"
+"all the preset radio stations?"
+msgstr "هل تريد حذف كافة\n"
+"محطات الراديو المُعَيَّنَة مسبقًا؟"
+
+#: 
+msgctxt "Loading"
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+#: 
+msgctxt "NoInternetConnectionCheckYourConnectivity"
+msgid "No internet connection\n"
+"check your connectivity"
+msgstr "لا يوجد اتصال بالإنترنت\n"
+"تحقق من الاتصال لديك"
+
+#: 
+msgctxt "ResetInProgress"
+msgid "Reset in progress..."
+msgstr "إعادة التعيين جارية..."
+
+#: 
+msgctxt "ResetSuccessfulSystemWillRebootInFewSeconds"
+msgid "Reset successful\n"
+"the system will reboot\n"
+"in a few seconds"
+msgstr "تمت إعادة التعيين بنجاح\n"
+"سيتم إعادة تشغيل النظام في بضع ثوانٍ"
+
+#: 
+msgctxt "ThisWillDeleteAllSettingsAndDataPresentOnVehicleConfirmCancellation"
+msgid "This will delete all settings\n"
+"and data present on\n"
+"vehicle infotainment\n"
+"\n"
+"Confirm the cancellation?"
+msgstr "سيؤدي هذا إلى حذف جميع الإعدادات والبيانات الموجودة في المعلومات الترفيهية للمركبة \n"
+"\n"
+"هل تؤكد الإلغاء؟"
+
+#: 
+msgctxt "PinDoesntMatch"
+msgid "PIN doesn't match"
+msgstr "رقم PIN غير متطابق"
+
+#: 
+msgctxt "WrongPinSystemBlockedTryAgainIn30Seconds"
+msgid "Wrong PIN\n"
+"System blocked\n"
+"Try again in 30 seconds"
+msgstr "خطأ PIN \n"
+"أعد تشغيل السيارة أو اتصل\n"
+"بالموزع من أجل إعادة تعيين رقم PIN."
+
+#: 
+msgctxt "SystemWillRebootConfirmApnChange"
+msgid "The system will reboot\n"
+"confirm APN change?"
+msgstr "سيتم إعادة تمهيد النظام\n"
+" هل تؤكد تغيير APN؟"
+
+#: 
+msgctxt "SpeedMeasurementUnitKmh"
+msgid "km/h"
+msgstr "km/h"
+
+#: 
+msgctxt "SpeedMeasurementUnitMph"
+msgid "mph"
+msgstr "mph"
+
+#: 
+msgctxt "SpeedMeasurementUnit"
+msgid "Speed\n"
+"measurement unit"
+msgstr "وحدة قياس\n"
+" السرعة"
+
+#: 
+msgctxt "TemperatureMeasurementUnitCelsius"
+msgid "°C"
+msgstr "C°"
+
+#: 
+msgctxt "TemperatureMeasurementUnitFahrenheit"
+msgid "°F"
+msgstr "F°"
+
+#: 
+msgctxt "TemperatureMeasurementUnit"
+msgid "Temperature\n"
+"measurement unit"
+msgstr "وحدة قياس\n"
+" الحرارة"
+
+#: 
+msgctxt "TimeFormat24H"
+msgid "24H"
+msgstr "24س"
+
+#: 
+msgctxt "TimeFormatAMPM"
+msgid "AM/PM"
+msgstr "صباحًا/مساءً"
+
+#: 
+msgctxt "TitleTimeFormat"
+msgid "Time format"
+msgstr "تنسيق الوقت"
+
+#: 
+msgctxt "DoYouWantToSave"
+msgid "Do you want to save?"
+msgstr "هل تريد الحفظ؟"
+
+#: 
+msgctxt "SoundFocusAll"
+msgid "All"
+msgstr "الجميع"
+
+#: 
+msgctxt "SoundFocusDriver"
+msgid "Driver"
+msgstr "سائق"
+
+#: 
+msgctxt "SoundFocus"
+msgid "Sound focus"
+msgstr "تركيز الصوت"
+
+#: 
+msgctxt "SampleItemValue"
+msgid "56"
+msgstr "56"
+
+#: 
+msgctxt "TitleVolume"
+msgid "Volume"
+msgstr "مستوى الصوت"
+
+#: 
+msgctxt "DoYouWantToDelete"
+msgid "Do you want to delete?\n"
+"All track and driving sessions\n"
+"data will be deleted."
+msgstr "هل تريد الحذف؟"
+
+#: 
+msgctxt "DoYouWantToDeleteCookiesAndPasswords"
+msgid "Do you want to delete\n"
+"cookies and passwords?"
+msgstr "هل تريد حذف الكوكيز وكلمات المرور؟"
+
+#: 
+msgctxt "ConnectionInProgress"
+msgid "Connection in progress..."
+msgstr "الاتصال جارٍ..."
+
+#: 
+msgctxt "Connected"
+msgid "Connected"
+msgstr "متصل"
+
+#: 
+msgctxt "ConnectionFailed"
+msgid "Connection failed"
+msgstr "فشل الاتصال"
+
+#: 
+msgctxt "DisconnectClientConfirm"
+msgid "Do you want to\n"
+"disconnect the client?"
+msgstr "هل تريد قطع اتصال العميل؟"
+
+#: 
+msgctxt "Disconnected"
+msgid "Disconnected"
+msgstr "غير متصل"
+
+#: 
+msgctxt "DisconnectionInProgress"
+msgid "Disconnection in progress..."
+msgstr "قطع الاتصال جارٍ..."
+
+#: 
+msgctxt "WirelessDisconnectCurrentNetworkConfirm"
+msgid "Do you want to disconnect\n"
+"the current network?"
+msgstr "هل تريد قطع اتصال الشبكة الحالية؟"
+
+#: 
+msgctxt "NoNetworkFound"
+msgid "No network\n"
+"found"
+msgstr "لم يتم العثور على شبكة"
+
+#: 
+msgctxt "TitleMapsUpdate"
+msgid "Maps Update"
+msgstr "Maps Update"
+
+#: 
+msgctxt "MapsUpdate"
+msgid "UPDATE MAPS"
+msgstr "UPDATE MAPS"
+
+#: 
+msgctxt "MapsUpdateInProgress"
+msgid "Maps update in progress"
+msgstr "Maps update in progress"
+
+#: 
+msgctxt "MapsUpdateSuccess"
+msgid "Maps update successful"
+msgstr "Maps update successful"
+
+#: 
+msgctxt "UpdateSoftware"
+msgid "UPDATE SOFTWARE"
+msgstr "UPDATE SOFTWARE"
+
+#: 
+msgctxt "UpdateMap"
+msgid "UPDATE MAP"
+msgstr "UPDATE MAP"
+
+#: 
+msgctxt "TitleWireless"
+msgid "Wireless"
+msgstr "لاسلكي"
+
+#: 
+msgctxt "WirelessStatus"
+msgid "Wireless status"
+msgstr "الحالة اللاسلكية"
+
+#: 
+msgctxt "ClientMode"
+msgid "Client mode"
+msgstr "وضع العميل"
+
+#: 
+msgctxt "ClientSettings"
+msgid "Client settings"
+msgstr "إعدادات العميل"
+
+#: 
+msgctxt "SelectFormat"
+msgid "Date format"
+msgstr "تنسيق التاريخ"
+
+#: 
+msgctxt "Current"
+msgid "CURRENT"
+msgstr "الدورة الحالية"
+
+#: 
+msgctxt "TitleBestLap"
+msgid "BEST LAP"
+msgstr "أفضل دورة"
+
+#: 
+msgctxt "BestLap"
+msgid "Best Lap"
+msgstr "أفضل دورة"
+
+#: 
+msgctxt "TitleRaceOn"
+msgid "Start"
+msgstr "ابدأ"
+
+#: 
+msgctxt "TitleImportFromUSB"
+msgid "Import From USB"
+msgstr "استيراد من USB"
+
+#: 
+msgctxt "TitleExportToUSB"
+msgid "Export to USB"
+msgstr "تصدير إلى USB"
+
+#: 
+msgctxt "TitleRace"
+msgid "Driving session"
+msgstr "سباق قيادة"
+
+#: 
+msgctxt "LockLapTime"
+msgid "Lock lap time"
+msgstr "غلق وقت الدورة"
+
+#: 
+msgctxt "ShowGSP"
+msgid "Show GSP"
+msgstr "عرض GSP"
+
+#: 
+msgctxt "ShowIntertime"
+msgid "Show split time"
+msgstr "عرض وقت العمل"
+
+#: 
+msgctxt "TitleRecording"
+msgid "Recording"
+msgstr "التسجيل"
+
+#: 
+msgctxt "RecordVideo"
+msgid "Record video"
+msgstr "تسجيل الفيديو"
+
+#: 
+msgctxt "RecordAudio"
+msgid "Record audio"
+msgstr "تسجيل صوتي"
+
+#: 
+msgctxt "TitleTelemetry"
+msgid "Telemetry"
+msgstr "أجهزة القياس"
+
+#: 
+msgctxt "Internal memory"
+msgid "Internal memory"
+msgstr "الذاكرة الداخلية"
+
+#: 
+msgctxt "FormatInternalMemory"
+msgid "Format internal memory"
+msgstr "تنسيق الذاكرة الداخلية"
+
+#: 
+msgctxt "TitleAvailableSpace"
+msgid "Free space"
+msgstr "مساحة متاحة"
+
+#: 
+msgctxt "Free"
+msgid "Free"
+msgstr "حر"
+
+#: 
+msgctxt "Protected"
+msgid "Protected"
+msgstr "محمٍ"
+
+#: 
+msgctxt "RadioTypeAM"
+msgid "AM"
+msgstr "AM"
+
+#: 
+msgctxt "RadioTypeFM"
+msgid "FM"
+msgstr "FM"
+
+#: 
+msgctxt "RadioTypeDAB"
+msgid "DAB"
+msgstr "DAB"
+
+#: 
+msgctxt "RadioTypeWEB"
+msgid "WEB"
+msgstr "WEB"
+
+#: 
+msgctxt "RadioTypeHD"
+msgid "HD"
+msgstr "HD"
+
+#: 
+msgctxt "RadioTypeSXM"
+msgid "SXM"
+msgstr "SXM"
+
+#: 
+msgctxt "SyncFailed"
+msgid "Sync failed"
+msgstr "فشلت المزامنة"
+
+#: 
+msgctxt "SyncCompleted"
+msgid "Sync completed"
+msgstr "اكتملت المزامنة"
+
+#: 
+msgctxt "IncomingCall"
+msgid "Incoming call..."
+msgstr "مكالمة واردة..."
+
+#: 
+msgctxt "Clockwise"
+msgid "Change way"
+msgstr "تغيير الطريق"
+
+#: 
+msgctxt "CounterClockwise"
+msgid "Change way"
+msgstr "تغيير الطريق"
+
+#: 
+msgctxt "Sun"
+msgid "Clear"
+msgstr "شمس"
+
+#: 
+msgctxt "TitleCurrentAPN"
+msgid "Current APN"
+msgstr "Current APN"
+
+#: 
+msgctxt "TitleGPS"
+msgid "GPS"
+msgstr "GPS"
+
+#: 
+msgctxt "Fixed"
+msgid "Fixed"
+msgstr "ثابت"
+
+#: 
+msgctxt "NotFixed"
+msgid "Not Fixed"
+msgstr "غير ثابت"
+
+#: 
+msgctxt "SavePassword"
+msgid "Save password"
+msgstr "حفظ كلمة المرور"
+
+#: 
+msgctxt "RadioFirmwareUpdate"
+msgid "Do you want to\n"
+"update Radio firmware?"
+msgstr "Do you want to\n"
+"update Radio firmware?"
+
+#: 
+msgctxt "RadioFirmwareUpdateFailed"
+msgid "Radio firmware update failed"
+msgstr "Radio firmware update failed"
+
+#: 
+msgctxt "RadioFirmwareUpdateInProgress"
+msgid "Updating radio firmware..."
+msgstr "Updating radio firmware..."
+
+#: 
+msgctxt "RadioFirmwareUpdateSuccess"
+msgid "Radio firmware successfully updated\n"
+"click the button to reboot the system"
+msgstr "Radio firmware successfully updated\n"
+"click the button to reboot the system"
+
+#: 
+msgctxt "UpdateRadioFirmware"
+msgid "UPDATE RADIO FIRMWARE"
+msgstr "UPDATE RADIO FIRMWARE"
+
+#: 
+msgctxt "TitleUpdateRadioFirmware"
+msgid "Radio Firmware Update"
+msgstr "Radio Firmware Update"
+
+#: 
+msgctxt "DoYouWantToStartADrivingSessionOnThisTrack"
+msgid "Do you want to start a driving\n"
+"session on this track?"
+msgstr "هل تريد بدء جلسة\n"
+"القيادة على هذا المسار؟"
+
+#: 
+msgctxt "Saving"
+msgid "Saving..."
+msgstr "جاري الحفظ..."
+
+#: 
+msgctxt "RecordingTimeFinishedSaving"
+msgid "Recording time finished\n"
+"Saving..."
+msgstr "انتهى وقت التسجيل \n"
+"جاري الحفظ ..."
+
+#: 
+msgctxt "RemainingRecordingTime1Minute"
+msgid "Remaining recording time\n"
+"1 minute"
+msgstr "مدة التسجيل\n"
+"المتبقية هي 1 دقيقة"
+
+#: 
+msgctxt "BadGSPSignalDuringRecordingDoYouWantToSaveData"
+msgid "Bad GPS signal during recording\n"
+"do you want to save data?"
+msgstr "إشارة GPS سيئة أثناء التسجيل. \n"
+"هل تريد حفظ البيانات؟"
+
+#: 
+msgctxt "DoYouWantToQuitWarmUp"
+msgid "Do you want to quit\n"
+"Warm up?"
+msgstr "هل تريد إنهاء\n"
+"عملية التدفئة؟"
+
+#: 
+msgctxt "DoYouWantToStopRecording"
+msgid "Do you want to\n"
+"stop recording?"
+msgstr "هل تريد التوقف\n"
+"عن التسجيل؟"
+
+#: 
+msgctxt "QuitRaceAreYouSure"
+msgid "Quit driving session\n"
+"are you sure?"
+msgstr "الخروج من سباق القيادة.\n"
+"هل أنت متأكد؟"
+
+#: 
+msgctxt "ErrorTheNameAlreadyExistsChooseAnotherOne"
+msgid "Error. The name\n"
+"already exists\n"
+"choose another one"
+msgstr "خطأ.\n"
+" الاسم موجود بالفعل\n"
+" اختر اسمًا آخر."
+
+#: 
+msgctxt "ThisOperationMayTakeAFewMinutesImporting"
+msgid "This operation may\n"
+"take a few minutes\n"
+"Importing..."
+msgstr "قد تستغرق\n"
+" هذه العملية\n"
+"عدة دقائق جارِ الاستيراد..."
+
+#: 
+msgctxt "ImportFailedThereIsNotEnoughSpace"
+msgid "Import failed\n"
+"there is not enough space"
+msgstr "فشل الاستيراد\n"
+" لعدم وجود مساحة كافية"
+
+#: 
+msgctxt "ImportFailed"
+msgid "Import failed"
+msgstr "فشل الاستيراد"
+
+#: 
+msgctxt "ImportFailedVideoAlreadyExists"
+msgid "Import failed\n"
+"video already exists"
+msgstr "فشل الاستيراد\n"
+"الفيديو موجود بالفعل"
+
+#: 
+msgctxt "ImportFailedSessionAlreadyExists"
+msgid "Import failed\n"
+"session already exists"
+msgstr "فشل الاستيراد\n"
+"الجلسة موجودة بالفعل"
+
+#: 
+msgctxt "ImportFailedTrackAlreadyExists"
+msgid "Import failed\n"
+"track already exists"
+msgstr "فشل الاستيراد\n"
+"المسار موجود بالفعل"
+
+#: 
+msgctxt "ImportCompleted"
+msgid "Import completed"
+msgstr "اكتمل الاستيراد"
+
+#: 
+msgctxt "TitleEditLapNumber"
+msgid "Edit lap number"
+msgstr "حرر رقم الدورة"
+
+#: 
+msgctxt "Formatting"
+msgid "Formatting..."
+msgstr "جارِ التنسيق..."
+
+#: 
+msgctxt "DoYouWantToFormatInternalMemoryAllDataWillBeLost"
+msgid "Do you want\n"
+"to format Internal Memory?\n"
+"All data will be lost"
+msgstr "هل تريد تنسيق\n"
+"الذاكرة الداخلية؟ \n"
+"ستفقد كافة البيانات"
+
+#: 
+msgctxt "FormatCompleted"
+msgid "Format completed"
+msgstr "اكتمل التنسيق"
+
+#: 
+msgctxt "ThisOperationMayTakeAFewMinutesExporting"
+msgid "This operation may\n"
+"take a few minutes\n"
+"Exporting..."
+msgstr "قد تستغرق\n"
+" هذه العملية\n"
+"عدة دقائق\n"
+"جاري التصدير ..."
+
+#: 
+msgctxt "ExportFailedThereIsNotEnoughSpace"
+msgid "Export failed\n"
+"there is not enough space"
+msgstr "فشل التصدير\n"
+" لعدم وجود مساحة كافية"
+
+#: 
+msgctxt "ExportFailed"
+msgid "Export failed"
+msgstr "فشل التصدير"
+
+#: 
+msgctxt "ExportFailedVideoAlreadyExists"
+msgid "Export failed\n"
+"video already exists"
+msgstr "فشل التصدير\n"
+"الفيديو موجود بالفعل"
+
+#: 
+msgctxt "ExportFailedSessionAlreadyExists"
+msgid "Export failed\n"
+"session already exists"
+msgstr "فشل التصدير\n"
+"الجلسة موجودة بالفعل"
+
+#: 
+msgctxt "ExportFailedTrackAlreadyExists"
+msgid "Export failed\n"
+"track already exists"
+msgstr "فشل التصدير\n"
+"المسار موجود بالفعل"
+
+#: 
+msgctxt "ExportCompleted"
+msgid "Export completed"
+msgstr "اكتمل التصدير"
+
+#: 
+msgctxt "DoYouWantToChangeWay"
+msgid "Do you want to change way?"
+msgstr "هل ترغب في تغيير الطريق؟"
+
+#: 
+msgctxt "QuitWithoutSavingModifications"
+msgid "Quit without saving\n"
+"changes?"
+msgstr "قم بالإنهاء دون\n"
+"حفظ التعديلات؟"
+
+#: 
+msgctxt "Accept"
+msgid "Accept"
+msgstr "قبول"
+
+#: 
+msgctxt "LamborghiniTelemetryDisclaimer"
+msgid "_  The driver CANNOT interact with the “LAMBORGHINI TELEMETRY SYSTEM” while driving.\n"
+"_  Configuration or viewing videos and/or data gathered  by the system is possible ONLY when the vehicle is  safely parked. \n"
+"_  During driving, the system is ONLY used to passively  collect data. \n"
+"_  Use the system only on PRIVATE roads closed to the  public.\n"
+"_  Always follow all driving, safety and vehicle movement  laws.\n"
+"_  Drive within your limits and adapt your driving style to  the road and weather conditions, as well as any other  factors which may influence it.\n"
+"_  The driver is responsible for using the system in a safe and responsible manner, and is also responsible for their actions behind the wheel.\n"
+"_  By clicking on “Accept” and using the system, you confirm that you have read the related information in the User Handbook and agree to the terms of use therein.\n"
+""
+msgstr "_ لا يمكن للسائق التفاعل مع \"نظام قياس لامبورغيني\" أثناء القيادة. \n"
+"_ لا يمكن تهيئة أو عرض مقاطع الفيديو و / أو البيانات التي يجمعها النظام إلا عندما تكون السيارة متوقفة توقف آمن.\n"
+"_ أثناء القيادة، يتم استخدام النظام فقط لجمع البيانات سلبيا. \n"
+"_ استخدم النظام فقط على الطرق الخاصة المغلقة للجمهور.\n"
+"_ اتبع دائمًا جميع قوانين القيادة والسلامة والحركة. \n"
+"_ قُد ضمن حدودك، وعدل أسلوب قيادتك وفقا للطريق وأحوال الطقس، بالإضافة إلى أي عوامل أخرى قد تؤثر فيه. \n"
+"_ يتحمل السائق مسؤولية استخدام النظام بطريقة آمنة ومسؤولة، كما أنه مسؤول عن تصرفاته خلف عجلة القيادة. \n"
+"_ بالنقر على \"Accept\" (قبول) واستخدام النظام، فإنك تؤكد أنك قد قرأت المعلومات ذات الصلة في دليل المستخدم، وتوافق على شروط الاستخدام الخاصة بها"
+
+#: 
+msgctxt "TitleAttention"
+msgid "ATTENTION"
+msgstr "انتباه"
+
+#: 
+msgctxt "TitleLamborghiniTelemetrySystem"
+msgid "Lamborghini Telemetry System"
+msgstr "نظام القياس الخاص بلامبورجيني"
+
+#: 
+msgctxt "CheckThatAllVehicleOccupantsAgree"
+msgid "Do you want to enable audio and video recording?\n"
+"Check that all vehicle occupants\n"
+"agree with the recording\n"
+"method and that video\n"
+"recording is permitted\n"
+"for the entire session"
+msgstr "تأكد من موافقة\n"
+"جميع ركاب\n"
+" السيارة على وسيلة التسجيل\n"
+" وأن تسجيل الفيديو مسموح\n"
+"به طوال الجلسة"
+
+#: 
+msgctxt "TitleAnalysis"
+msgid "Analysis"
+msgstr "التحليل"
+
+#: 
+msgctxt "TitleGraph"
+msgid "Graph"
+msgstr "رسم بياني"
+
+#: 
+msgctxt "TitleSelectChannel"
+msgid "Select channel"
+msgstr "اختر القناة"
+
+#: 
+msgctxt "TitleCreateNewDriver"
+msgid "Create new driver"
+msgstr "أنشئ سائقًا جديدًا"
+
+#: 
+msgctxt "TitleInsertDriverName"
+msgid "Insert driver name"
+msgstr "أدخل اسم السائق"
+
+#: 
+msgctxt "TitleInsertTrackName"
+msgid "Enter track name"
+msgstr "أدخل اسم المسار"
+
+#: 
+msgctxt "TitleCreateNewTrack"
+msgid "Create new track"
+msgstr "أنشئ سائقًا جديدًا"
+
+#: 
+msgctxt "TitleSelectDriver"
+msgid "Select driver"
+msgstr "حدد السائق"
+
+#: 
+msgctxt "TitleLapList"
+msgid "Lap list"
+msgstr "قائمة الدورة"
+
+#: 
+msgctxt "TitleAbsoluteBest"
+msgid "Absolute best"
+msgstr "الأفضل تماما"
+
+#: 
+msgctxt "TitleRanking"
+msgid "Ranking"
+msgstr "التصنيف"
+
+#: 
+msgctxt "TitlePersonalBest"
+msgid "Personal best"
+msgstr "الأفضلية الشخصية"
+
+#: 
+msgctxt "TitleWeather"
+msgid "Select weather"
+msgstr "الطقس"
+
+#: 
+msgctxt "Clouds"
+msgid "Cloudy"
+msgstr "سحاب"
+
+#: 
+msgctxt "Overcast"
+msgid "Overcast"
+msgstr "غائم"
+
+#: 
+msgctxt "Fog"
+msgid "Fog"
+msgstr "ضباب"
+
+#: 
+msgctxt "Rain"
+msgid "Rain"
+msgstr "مطر"
+
+#: 
+msgctxt "Storm"
+msgid "Stormy"
+msgstr "عاصفة"
+
+#: 
+msgctxt "Snow"
+msgid "Snow"
+msgstr "ثلج"
+
+#: 
+msgctxt "AbsoluteBestLap"
+msgid "ALL-TIME BEST LAP"
+msgstr "دورة الأفضل تماما"
+
+#: 
+msgctxt "TitleNewTrack"
+msgid "New track"
+msgstr "مسار جديد"
+
+#: 
+msgctxt "WarningDoNotExceedSpeedValue"
+msgid "Do not exceed\n"
+"100 km/h or 62 mph\n"
+"and in any case the limits\n"
+"imposted by the road law."
+msgstr "لا تتجاوز سرعة\n"
+"100 km/h أو 62 mph"
+
+#: 
+msgctxt "TitleSelectGear"
+msgid "Select Gear"
+msgstr "اختر الترس"
+
+#: 
+msgctxt "Race"
+msgid "Driving session"
+msgstr "سباق قيادة"
+
+#: 
+msgctxt "ExportToUsb"
+msgid "Export to USB"
+msgstr "تصدير إلى USB"
+
+#: 
+msgctxt "Drivers"
+msgid "Drivers"
+msgstr "السائقين"
+
+#: 
+msgctxt "TitleWarmUp"
+msgid "Warm up"
+msgstr "الإحماء"
+
+#: 
+msgctxt "WarmUpGoToTheStartingLine"
+msgid "WARM UP!\n"
+"Go to the starting line"
+msgstr "التدفئة! \n"
+"اذهب إلى خط البداية"
+
+#: 
+msgctxt "TitleEditing"
+msgid "Editing"
+msgstr "تحرير"
+
+#: 
+msgctxt "SurroundAdjustment"
+msgid "Surround adjustment"
+msgstr "التعديل المحيطي"
+
+#: 
+msgctxt "LoudnessAdjustment"
+msgid "Speed dependent volume control"
+msgstr "التحكم في مستوى الصوت المعتمد على السرعة"
+
+#: 
+msgctxt "ErrorTheApnAlreadyExistsChooseAnotherOne"
+msgid "Error the APN\n"
+"already exists\n"
+"choose another one"
+msgstr "Error the APN\n"
+"already exists\n"
+"choose another one"
+
+#: 
+msgctxt "InsertAPN"
+msgid "Insert APN"
+msgstr "Insert APN"
+
+#: 
+msgctxt "TitleCreateNewAPN"
+msgid "Create new APN"
+msgstr "Create new APN"
+
+#: 
+msgctxt "TitleInsertAPN"
+msgid "Insert APN"
+msgstr "Insert APN"
+
+#: 
+msgctxt "SelectAPN"
+msgid "Select APN"
+msgstr "Select APN"
+
+#: 
+msgctxt "TitleTTSUpdate"
+msgid "TTS Update"
+msgstr "TTS Update"
+
+#: 
+msgctxt "UpdateTTS"
+msgid "UPDATE TTS"
+msgstr "UPDATE TTS"
+
+#: 
+msgctxt "DoYouWantToUpdateTTS"
+msgid "Do you want to update TTS?"
+msgstr "?Do you want to update TTS"
+
+#: 
+msgctxt "TTSUpdateFailed"
+msgid "TTS update failed"
+msgstr "TTS update failed"
+
+#: 
+msgctxt "TTSUpdateInProgress"
+msgid "Updating TTS..."
+msgstr "Updating TTS..."
+
+#: 
+msgctxt "TTSUpdateSuccess"
+msgid "TTS successfully updated\n"
+"click the button to reboot the system"
+msgstr "TTS successfully updated\n"
+"click the button to reboot the system"
+
+#: 
+msgctxt "TitleAmbientLight"
+msgid "Ambient Light"
+msgstr "الإضاءة المحيطة"
+
+#: 
+msgctxt "AmbientLight"
+msgid "Ambient light"
+msgstr "الإضاءة المحيطة"
+
+#: 
+msgctxt "OpenSourceSoftwareInfo"
+msgid "Open source software info"
+msgstr "معلومات برنامج مفتوح المصدر"
+
+#: 
+msgctxt "DoYouWantToDeleteLog"
+msgid "Do you want to confirm\n"
+"data log delete?"
+msgstr "Do you want to confirm\n"
+"data log delete?"
+
+#: 
+msgctxt "LogSuccessfullyDeletedClickTheButtonToRebootTheSystem"
+msgid "Data log delete completed"
+msgstr "Data log delete completed"
+
+#: 
+msgctxt "LogExportFailed"
+msgid "Export failed"
+msgstr "فشل التصدير"
+
+#: 
+msgctxt "ExportingLog"
+msgid "Export in progress"
+msgstr "قد تستغرق\n"
+"هذه العملية عدة دقائق\n"
+"جاري التصدير ..."
+
+#: 
+msgctxt "LogSuccessfullyExportedClickTheButtonToRebootTheSystem"
+msgid "Export successful completed"
+msgstr "اكتمل التصدير الناجح"
+
+#: 
+msgctxt "SelectAColorForYourAmbientLight"
+msgid "Select an ambient\n"
+"light colour"
+msgstr "حدد لونًا \n"
+"للإضاءة المحيطة"
+
+#: 
+msgctxt "White"
+msgid "White"
+msgstr "أبيض"
+
+#: 
+msgctxt "Blue"
+msgid "Blue"
+msgstr "أزرق"
+
+#: 
+msgctxt "Orange"
+msgid "Orange"
+msgstr "برتقالي"
+
+#: 
+msgctxt "Red"
+msgid "Red"
+msgstr "أحمر"
+
+#: 
+msgctxt "CurrentRadioFirmwareVersionIs"
+msgid "Current Radio FW version is"
+msgstr "Current Radio FW version is"
+
+#: 
+msgctxt "TheRadioFirmwareVersionIsAvailable"
+msgid "The Radio FW version\n"
+"\n"
+"is available"
+msgstr "The Radio FW version\n"
+"\n"
+"is available"
+
+#: 
+msgctxt "FunctionNotAvailablePlugSmartphoneDeviceIntoUSBConnector"
+msgid "Function not available.\n"
+"Plug smartphone into\n"
+"USB socket."
+msgstr "وظيفة غير متوفرة.\n"
+"قم بتوصيل جهاز الهاتف الذكي \n"
+"بمنفذ USB."
+
+#: 
+msgctxt "FunctionNotAvailableWhenSmartphoneIsConnectedUnplugTheDevice"
+msgid "Function not available\n"
+"when smartphone is connected.\n"
+"Unplug the device."
+msgstr "الوظيفة غير متاحة\n"
+"عند توصيل الهاتف الذكي.\n"
+" افصل الجهاز."
+
+#: 
+msgctxt "LanguageGerman"
+msgid "Deutsch"
+msgstr "Deutsch"
+
+#: 
+msgctxt "LanguageEnglish"
+msgid "English"
+msgstr "English"
+
+#: 
+msgctxt "LanguageFrench"
+msgid "Français"
+msgstr "Français"
+
+#: 
+msgctxt "LanguageSpanish"
+msgid "Español"
+msgstr "Español"
+
+#: 
+msgctxt "LanguageItalian"
+msgid "Italiano"
+msgstr "Italiano"
+
+#: 
+msgctxt "LanguagePortuguese"
+msgid "Português"
+msgstr "Português"
+
+#: 
+msgctxt "LanguageRussian"
+msgid "Русский язык"
+msgstr "Русский язык"
+
+#: 
+msgctxt "LanguageDutch"
+msgid "Nederlands"
+msgstr "Nederlands"
+
+#: 
+msgctxt "LanguageCzech"
+msgid "Čeština"
+msgstr "Čeština"
+
+#: 
+msgctxt "LanguagePolish"
+msgid "Polski"
+msgstr "Polski"
+
+#: 
+msgctxt "LanguageArabic"
+msgid "العربية"
+msgstr "العربية"
+
+#: 
+msgctxt "LanguageArabicEnglish"
+msgid "Arabic English"
+msgstr "Arabic English"
+
+#: 
+msgctxt "LanguageSwedish"
+msgid "Svenska"
+msgstr "Svenska"
+
+#: 
+msgctxt "LanguageTurkish"
+msgid "Türkçe"
+msgstr "Türkçe"
+
+#: 
+msgctxt "LanguageUSEnglish"
+msgid "US English"
+msgstr "US English"
+
+#: 
+msgctxt "LanguageCanadianFrench"
+msgid "Français canadien"
+msgstr "Français canadien"
+
+#: 
+msgctxt "LanguageSpanishUS"
+msgid "Español EE.UU."
+msgstr "Español EE.UU."
+
+#: 
+msgctxt "LanguageChinese"
+msgid "汉语"
+msgstr "简体中文"
+
+#: 
+msgctxt "LanguageJapanese"
+msgid "日本語"
+msgstr "日本語"
+
+#: 
+msgctxt "LanguageKorean"
+msgid "조선말"
+msgstr "한국어"
+
+#: 
+msgctxt "LanguageChineseTaiwaneseTraditional"
+msgid "漢語"
+msgstr "繁體中文"
+
+#: 
+msgctxt "LanguageGreek"
+msgid "Eλληνικά"
+msgstr "Eλληνικά"
+
+#: 
+msgctxt "InsertTrackName"
+msgid "Enter track name"
+msgstr "أدخل اسم المسار"
+
+#: 
+msgctxt "ThisOperationMayTakeAFewMinutesDeleteInProgress"
+msgid "This operation may\n"
+"take a few minutes\n"
+"Delete in progress..."
+msgstr "قد تستغرق\n"
+"هذه العملية عدة دقائق.\n"
+"جارِ الحذف..."
+
+#: 
+msgctxt "DaytimeRunningLights"
+msgid "Daytime running lights"
+msgstr "الأضواء النّهارية - أضواء النّهار"
+
+#: 
+msgctxt "PhoneApps"
+msgid "PHONE\n"
+"APPS"
+msgstr "الهاتف\n"
+"التطبيقات"
+
+#: 
+msgctxt "TitleClient"
+msgid "Client"
+msgstr "العميل"
+
+#: 
+msgctxt "Bluetooth"
+msgid "Bluetooth"
+msgstr "بلوتوث"
+
+#: 
+msgctxt "TitleManageDevices"
+msgid "Manage devices"
+msgstr "إدارة الأجهزة"
+
+#: 
+msgctxt "MapsUpdateFailed"
+msgid "Software update failed"
+msgstr "Software update failed"
+
+#: 
+msgctxt "DoYouWantToUpdateTheMaps"
+msgid "Do you want to update the maps?"
+msgstr "?Do you want to update the maps"
+
+#: 
+msgctxt "Driver"
+msgid "Driver"
+msgstr "سائق"
+
+#: 
+msgctxt "InsertDriverName"
+msgid "Insert driver name"
+msgstr "أدخل اسم السائق"
+
+#: 
+msgctxt "MilesAbbreviated"
+msgid "mi"
+msgstr "mi"
+
+#: 
+msgctxt "KilometresAbbreviated"
+msgid "km"
+msgstr "km"
+
+#: 
+msgctxt "Off"
+msgid "OFF"
+msgstr "إيقاف تشغيل"
+
+#: 
+msgctxt "DateFormatCapitalDDMMYY"
+msgid "dd/mm/yy"
+msgstr "يوم/شهر/سنة"
+
+#: 
+msgctxt "DateFormatCapitalMMDDYY"
+msgid "mm/dd/yy"
+msgstr "شهر/يوم/سنة"
+
+#: 
+msgctxt "DateFormatCapitalYYMMDD"
+msgid "YYMMDD"
+msgstr "سنة/شهر/يوم"
+
+#: 
+msgctxt "KilometresWithCapitalInitial"
+msgid "Km"
+msgstr "km"
+
+#: 
+msgctxt "MilesWithCapitalInitial"
+msgid "Miles"
+msgstr "mi"
+
+#: 
+msgctxt "TitleDirectTune"
+msgid "Direct tune"
+msgstr "Direct tune"
+
+#: 
+msgctxt "TitleChannelsLists"
+msgid "Channels lists"
+msgstr "Channels lists"
+
+#: 
+msgctxt "ForYou"
+msgid "For you"
+msgstr "For you"
+
+#: 
+msgctxt "Categories"
+msgid "Categories"
+msgstr "Categories"
+
+#: 
+msgctxt "AllChannels"
+msgid "All channels"
+msgstr "All channels"
+
+#: 
+msgctxt "DirectTune"
+msgid "Direct tune"
+msgstr "Direct tune"
+
+#: 
+msgctxt "MyNotifications"
+msgid "My notifications"
+msgstr "My notifications"
+
+#: 
+msgctxt "ThisWillDeleteAllTheSiriusXMDataConfirmTheCancellation"
+msgid "This will delete all the SiriusXM data\n"
+"Confirm the cancellation?"
+msgstr "This will delete all the SiriusXM data\n"
+"Confirm the cancellation?"
+
+#: 
+msgctxt "TitleRadioSXM"
+msgid "Radio SXM"
+msgstr "Radio SXM"
+
+#: 
+msgctxt "SXMSignalStrenght"
+msgid "SXM signal strenght"
+msgstr "SXM signal strenght"
+
+#: 
+msgctxt "AudibleAlertCue"
+msgid "Audible alert cue"
+msgstr "Audible alert cue"
+
+#: 
+msgctxt "ParentalControl"
+msgid "Parental control"
+msgstr "Parental control"
+
+#: 
+msgctxt "ClearAllData"
+msgid "Clear all data"
+msgstr "Clear all data"
+
+#: 
+msgctxt "NoSignal"
+msgid "No signal"
+msgstr "No signal"
+
+#: 
+msgctxt "Weak"
+msgid "Weak"
+msgstr "Weak"
+
+#: 
+msgctxt "Good"
+msgid "Good"
+msgstr "Good"
+
+#: 
+msgctxt "Strong"
+msgid "Strong"
+msgstr "Strong"
+
+#: 
+msgctxt "EnterNewPin"
+msgid "Enter new PIN"
+msgstr "Enter new PIN"
+
+#: 
+msgctxt "TitleParentalControl"
+msgid "Parental control"
+msgstr "Parental control"
+
+#: 
+msgctxt "TitleCategories"
+msgid "Categories"
+msgstr "Categories"
+
+#: 
+msgctxt "AlertMemoryFull"
+msgid "Alert memory full"
+msgstr "Alert memory full"
+
+#: 
+msgctxt "ActiveAlertsForArtistOrSong"
+msgid "Active alerts for\n"
+"artist or song?"
+msgstr "Active alerts for\n"
+"artist or song?"
+
+#: 
+msgctxt "ArtistNotAvailable"
+msgid "Artist not available"
+msgstr "Artist not available"
+
+#: 
+msgctxt "SongNotAvailable"
+msgid "Song not available"
+msgstr "Song not available"
+
+#: 
+msgctxt "SubscriptionUpdatedPressXToContinue"
+msgid "Subscription updated\n"
+"Press X to continue"
+msgstr "Subscription updated.\n"
+"Press X to continue"
+
+#: 
+msgctxt "AntennaDisconnected"
+msgid "Antenna disconnected"
+msgstr "Antenna disconnected"
+
+#: 
+msgctxt "CheckAntenna"
+msgid "Check antenna"
+msgstr "Check antenna"
+
+#: 
+msgctxt "AntennaShorted"
+msgid "Antenna shorted"
+msgstr "Antenna shorted"
+
+#: 
+msgctxt "ChannelUnsubscribed"
+msgid "Ch unsubscribed"
+msgstr "Ch unsubscribed"
+
+#: 
+msgctxt "ChannelNotAvailable"
+msgid "Channel not available"
+msgstr "Channel not available"
+
+#: 
+msgctxt "Channel"
+msgid "Channel"
+msgstr "Channel"
+
+#: 
+msgctxt "LockedEnterCode"
+msgid "locked\n"
+"Enter code"
+msgstr "locked\n"
+"Enter code"
+
+#: 
+msgctxt "InvalidCode"
+msgid "Invalid code"
+msgstr "Invalid code"
+
+#: 
+msgctxt "SiriusXM"
+msgid "Sirius XM"
+msgstr "Sirius XM"
+
+#: 
+msgctxt "ServiceMenu"
+msgid "SERVICE MENU"
+msgstr "SERVICE MENU"
+
+#: 
+msgctxt "TelemetrySimulation"
+msgid "TELEMETRY SIMULATION"
+msgstr "TELEMETRY SIMULATION"
+
+#: 
+msgctxt "NaviGpsSimulation"
+msgid "NAVI GPS SIMULATION"
+msgstr "NAVI GPS SIMULATION"
+
+#: 
+msgctxt "DeviceTest"
+msgid "DEVICE TEST"
+msgstr "DEVICE TEST"
+
+#: 
+msgctxt "CarConfiguration"
+msgid "CAR CONFIGURATION"
+msgstr "CAR CONFIGURATION"
+
+#: 
+msgctxt "Delta"
+msgid "Delta"
+msgstr "Delta"
+
+#: 
+msgctxt "DeleteDataLogFromInternalMemory"
+msgid "DELETE DATA LOG"
+msgstr "DELETE DATA LOG"
+
+#: 
+msgctxt "ExportLogToUSB"
+msgid "EXPORT LOG TO USB"
+msgstr "EXPORT LOG TO USB"
+
+#: 
+msgctxt "SystemUpdate"
+msgid "SYSTEM UPDATE"
+msgstr "SYSTEM UPDATE"
+
+#: 
+msgctxt "TelemetryAnalysisChannelSpeed"
+msgid "Speed"
+msgstr "السرعة"
+
+#: 
+msgctxt "TelemetryAnalysisChannelGear"
+msgid "Gear"
+msgstr "ترس"
+
+#: 
+msgctxt "TelemetryAnalysisChannelRPM"
+msgid "RPM"
+msgstr "عدد لفات المحرك"
+
+#: 
+msgctxt "TelemetryAnalysisChannelLateralAcceleration"
+msgid "Lateral Acceleration"
+msgstr "تسارع جانبي"
+
+#: 
+msgctxt "TelemetryAnalysisChannelLongitudinalAcceleration"
+msgid "Longitudinal Acceleration"
+msgstr "تسارع طولي"
+
+#: 
+msgctxt "TelemetryAnalysisChannelBrake"
+msgid "Brake"
+msgstr "كابح"
+
+#: 
+msgctxt "TelemetryAnalysisChannelSteeringAngle"
+msgid "Steering Angle"
+msgstr "زاوية التوجيه"
+
+#: 
+msgctxt "TelemetryAnalysisChannelThrottle"
+msgid "Throttle"
+msgstr "خانق"
+
+#: 
+msgctxt "TelemetryAnalysisChannelYawRate"
+msgid "Yaw rate"
+msgstr "معدل ياو"
+
+#: 
+msgctxt "KeyboardLayoutsQwerty"
+msgid "Qwerty"
+msgstr "Qwerty"
+
+#: 
+msgctxt "KeyboardLayoutsCyril"
+msgid "Cyril"
+msgstr "سيريل"
+
+#: 
+msgctxt "KeyboardLayoutsArabic"
+msgid "Arabic"
+msgstr "العربية"
+
+#: 
+msgctxt "KeyboardLayoutsGreek"
+msgid "Greek"
+msgstr "اليونانية"
+
+#: 
+msgctxt "KeyboardLayoutsTurkishF"
+msgid "Turkish F"
+msgstr "التركية F"
+
+#: 
+msgctxt "KeyboardLayoutsTurkishQ"
+msgid "Turkish Q"
+msgstr "التركية Q"
+
+#: 
+msgctxt "FormatError"
+msgid "Format error"
+msgstr "خطأ في التنسيق"
+
+#: 
+msgctxt "WebRadio"
+msgid "WEB Radio"
+msgstr "راديو الويب"
+
+#: 
+msgctxt "TitleTones"
+msgid "Tone"
+msgstr "نغمة"
+
+#: 
+msgctxt "SoundEffects"
+msgid "Sound effects"
+msgstr "مؤثرات صوتية"
+
+#: 
+msgctxt "CannotChangeDrivingDirectionOfTheTrack"
+msgid "Cannot change driving\n"
+"direction of the track"
+msgstr "لا يمكن تغيير\n"
+"اتجاه القيادة للمسار"
+
+#: 
+msgctxt "Color"
+msgid "Color"
+msgstr "اللون"
+
+#: 
+msgctxt "Automatic"
+msgid "Automatic"
+msgstr "الأوتوماتيكية"
+
+#: 
+msgctxt "SliderMinLabel"
+msgid "min"
+msgstr "min"
+
+#: 
+msgctxt "SliderMaxLabel"
+msgid "max"
+msgstr "max"
+
+#: 
+msgctxt "TitlePersonal"
+msgid "PERSONAL"
+msgstr "الأفضلية الشخصية"
+
+#: 
+msgctxt "TitleCustom"
+msgid "CUSTOM"
+msgstr "الدورة المختارة"
+
+#: 
+msgctxt "AbsoluteBestLapMode"
+msgid "ABSOLUTE"
+msgstr "الأفضل تماما"
+
+#: 
+msgctxt "OpenSourceLicense"
+msgid "Open source license"
+msgstr "رخصة مفتوحة المصدر"
+
+#: 
+msgctxt "Entertainment"
+msgid "Entertainment"
+msgstr "ENTERTAINMENT"
+
+#: 
+msgctxt "Tuning"
+msgid "Tuning..."
+msgstr "Tuning..."
+
+#: 
+msgctxt "TitleOptionsHDRadio"
+msgid "Options HD Radio™"
+msgstr "Options HD Radio™"
+
+#: 
+msgctxt "HDRadioAM"
+msgid "HD Radio™ AM"
+msgstr "HD Radio™ AM"
+
+#: 
+msgctxt "HDRadioFM"
+msgid "HD Radio™ FM"
+msgstr "HD Radio™ FM"
+
+#: 
+msgctxt "ArtistExperience"
+msgid "Artist experience™"
+msgstr "Artist experience™"
+
+#: 
+msgctxt "HDRadio"
+msgid "HD Radio™"
+msgstr "HD Radio™"
+
+#: 
+msgctxt "SignalLost"
+msgid "Signal lost"
+msgstr "Signal lost"
+
+#: 
+msgctxt "HDRadioOffDoYouWantToTurnHDRadioOnAndTuneToTheSelectedChannel"
+msgid "HD Radio™ is off.\n"
+"Do you want to turn HD Radio™ on\n"
+"and tune to the selected channel?"
+msgstr "HD Radio™ is off.\n"
+"Do you want to turn HD Radio™ on\n"
+"and tune to the selected channel?"
+
+#: 
+msgctxt "FrontCamera"
+msgid "Front Camera"
+msgstr "Front Camera"
+
+#: 
+msgctxt "RearCamera"
+msgid "Rear Camera"
+msgstr "Rear Camera"
+
+#: 
+msgctxt "Microphone"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+msgctxt "BaseSpeakers"
+msgid "Base Speakers"
+msgstr "Base Speakers"
+
+#: 
+msgctxt "PremiumSoundSpeakers"
+msgid "Premium Sound Speakers"
+msgstr "Premium Sound Speakers"
+
+#: 
+msgctxt "LDVI"
+msgid "LDVI"
+msgstr "LDVI"
+
+#: 
+msgctxt "ClearNVM"
+msgid "TUNER FACTORY\n"
+"RESET"
+msgstr "TUNER\n"
+"RESET"
+
+#: 
+msgctxt "ClearCGS"
+msgid "CLEAR ENG.\n"
+"DATA"
+msgstr "CLEAR ENG.\n"
+"DATA"
+
+#: 
+msgctxt "ClearFuel"
+msgid "CLEAR Fuel"
+msgstr "CLEAR Fuel"
+
+#: 
+msgctxt "TitleSubcategories"
+msgid "Subcategories"
+msgstr "Subcategories"
+
+#: 
+msgctxt "SaveSongArtistNotAvailable"
+msgid "Save song?\n"
+"artist not available"
+msgstr "Save song?\n"
+"artist not available"
+
+#: 
+msgctxt "SaveArtistSongNotAvailable"
+msgid "Save artist?\n"
+"song not available"
+msgstr "Save artist?\n"
+"song not available"
+
+#: 
+msgctxt "VocalAssistant"
+msgid "Vocal assistant"
+msgstr "المساعد الصوتي"
+
+#: 
+msgctxt "DriversDistractionDisclaimer"
+msgid "Driver's distraction disclaimer"
+msgstr "إخلاء المسئولية من تشتت السائق"
+
+#: 
+msgctxt "SystemWillReboot"
+msgid "System will reboot..."
+msgstr "سيُعاد تشغيل النظام..."
+
+#: 
+msgctxt "ToUseAndroidAutoPleaseStopYourCarAndFollowTheInstructionsOnYourPhone"
+msgid "To use Android Auto,\n"
+"please stop your car and\n"
+"follow the instructions on your phone"
+msgstr "لاستخدام Android Auto،\n"
+"يُرجى إيقاف سيارتك\n"
+"واتباع التعليمات الموجودة\n"
+"على هاتفك"
+
+#: 
+msgctxt "AProblemWithUSBConnectionOccurredAndAndroidAutoStoppedWorking"
+msgid "A problem with USB connection\n"
+"occurred and Android Auto stopped working"
+msgstr "حدثت مشكلة مع اتصال اليو إس بي\n"
+"«USB»، وتوقف Android Auto عن العمل"
+
+#: 
+msgctxt "FunctionNotAvailableWhenVehicleIsMoving"
+msgid "Function not available\n"
+"when vehicle is moving."
+msgstr "الوظيفة غير متاحة\n"
+"أثناء تحرك السيارة."
+
+#: 
+msgctxt "TitleSelectDelta"
+msgid "Select delta"
+msgstr "اختر الدلتا"
+
+#: 
+msgctxt "TitleSelectInfo"
+msgid "Select info"
+msgstr "اختر المعلومات"
+
+#: 
+msgctxt "MapsUpdateValidationInProgress"
+msgid "Maps update validation in progress"
+msgstr "Maps update validation in progress"
+
+#: 
+msgctxt "TitleNavigation"
+msgid "Navigation"
+msgstr "ملاحة"
+
+#: 
+msgctxt "InstallMap"
+msgid "INSTALL MAP"
+msgstr "INSTALL MAP"
+
+#: 
+msgctxt "TitleMapsInstall"
+msgid "Maps Install"
+msgstr "Maps Install"
+
+#: 
+msgctxt "KeyboardLayoutsJapaneseHiragana"
+msgid "Jap. Hiragana"
+msgstr "Hiragana"
+
+#: 
+msgctxt "KeyboardLayoutsJapaneseQwerty"
+msgid "Jap. Qwerty"
+msgstr "Qwerty"
+
+#: 
+msgctxt "KayboardLayoutsJapaneseQwertyHiragana"
+msgid "Jap. Qwerty Hiragana"
+msgstr "Qwerty Hiragana"
+
+#: 
+msgctxt "TitlePremiumSound"
+msgid "Premium sound"
+msgstr "Premium sound"
+
+#: 
+msgctxt "TitleEmergencyWarning"
+msgid "Emergency Warning"
+msgstr "Emergency Warning"
+
+#: 
+msgctxt "AffectedAreas"
+msgid "Affected areas"
+msgstr "Affected areas"
+
+#: 
+msgctxt "MoreInfo"
+msgid "More info"
+msgstr "More info"
+
+#: 
+msgctxt "TitleAffectedAreas"
+msgid "Affected areas"
+msgstr "Affected areas"
+
+#: 
+msgctxt "TitleMoreInfo"
+msgid "More information"
+msgstr "More information"
+
+#: 
+msgctxt "KeyboardLayoutsTaiwaneseBopomofo"
+msgid "BoPoMoFo"
+msgstr "BoPoMoFo"
+
+#: 
+msgctxt "KeyboardLayoutsChinesePinYin"
+msgid "PinYin"
+msgstr "PinYin"
+
+#: 
+msgctxt "KeyboardLayoutsAzerty"
+msgid "Azerty"
+msgstr "Azerty"
+
+#: 
+msgctxt "KeyboardLayoutsAbcd"
+msgid "Abcd"
+msgstr "Abcd"
+
+#: 
+msgctxt "KeyboardLayoutsQwertz"
+msgid "Qwertz"
+msgstr "Qwertz"
+
+#: 
+msgctxt "KeyboardLayoutsHandwriting"
+msgid "Handwriting"
+msgstr "Handwriting"
+
+#: 
+msgctxt "KeyboardLayoutsKoreanHangul"
+msgid "Hangul"
+msgstr "Hangul"
+
+#: 
+msgctxt "UnknownNumber"
+msgid "Unknown number"
+msgstr "رقم مجهول"
+
+#: 
+msgctxt "RaceModeCustom"
+msgid "Custom"
+msgstr "الدورة المختارة"
+
+#: 
+msgctxt "RaceFinishedAreYouSureToSaveData"
+msgid "Driving session finished.\n"
+"Are you sure to save the data?"
+msgstr "سباق القيادة انتهى\n"
+"هل أنت متأكد من رغبتك في حفظ البيانات؟"
+
+#: 
+msgctxt "LamborghiniDriversDistractionDisclaimer"
+msgid "Only use the Infotainment system (LIS) when traffic conditions permit and always in a way that allows you to maintain complete control of your vehicle for your safety and the safety of others.\n"
+"\n"
+"The navigation system is not updated in real time; therefore, always pay attention to road and traffic signs."
+msgstr "من أجل سلامتك وسلامة الآخرين، استخدم نظام (LIS) المعلومات والترفيه عندما تكون أحوال المرور مناسبة فقط، وبصورة تتيح لك دائمًا الحفاظ على تحكم كامل في سيارتك.\n"
+"نظام الملاحة غير مُحَدَّث آنيًا، لذا يجب الانتباه إلى الطريق واللافتات المرورية باستمرار.\n"
+"\n"
+"الاطلاع على كتيب المستخدم."
+
+#: 
+msgctxt "AlexaSettings"
+msgid "Settings"
+msgstr "Settings"
+
+#: 
+msgctxt "AlexaThingsToTry"
+msgid "Things to try"
+msgstr "Things to try"
+
+#: 
+msgctxt "AlexaHelpAndFeedback"
+msgid "Help and feedback"
+msgstr "Help and feedback"
+
+#: 
+msgctxt "AlexaSignOut"
+msgid "Sign out"
+msgstr "Sign out"
+
+#: 
+msgctxt "AlexaActiveLanguage"
+msgid "Active language"
+msgstr "Active language"
+
+#: 
+msgctxt "AlexaEarcons"
+msgid "Earcons"
+msgstr "Earcons"
+
+#: 
+msgctxt "AlexaTitleAlarmsAndTimers"
+msgid "Alarms and timers"
+msgstr "Alarms and timers"
+
+#: 
+msgctxt "AlexaTitleCommunication"
+msgid "Communication"
+msgstr "COMMUNICATION"
+
+#: 
+msgctxt "AlexaEntertainmentExampleText1"
+msgid "\"Alexa, play music.\""
+msgstr ".Alexa, play music"
+
+#: 
+msgctxt "AlexaEntertainmentExampleText2"
+msgid "\"Alexa, play rock music from the 70s.\""
+msgstr ".\"Alexa, play rock music from the 70s\""
+
+#: 
+msgctxt "AlexaEntertainmentExampleText3"
+msgid "\"Alexa, next track.\""
+msgstr ".\"Alexa, next track\""
+
+#: 
+msgctxt "AlexaGetStartedText"
+msgid "With Alexa, you can play music,\n"
+"get directions, place calls,\n"
+"control smart home devices\n"
+"and more - just by asking."
+msgstr "With Alexa, you can play music,\n"
+"get directions, place calls,\n"
+"control smart home devices\n"
+"and more - just by asking"
+
+#: 
+msgctxt "AlexaGetStartedButton"
+msgid "Get started"
+msgstr "Get started"
+
+#: 
+msgctxt "AlexaTitleGettingStarted"
+msgid "Getting started"
+msgstr "Getting started"
+
+#: 
+msgctxt "AlexaGettingStartedExampleText1"
+msgid "\"Alexa, find a nearby gas station.\""
+msgstr "Alexa, find a nearby gas station"
+
+#: 
+msgctxt "AlexaGettingStartedExampleText2"
+msgid "\"Alexa, play music.\""
+msgstr ".Alexa, play music"
+
+#: 
+msgctxt "AlexaGettingStartedExampleText3"
+msgid "\"Alexa, what’s the weather?\""
+msgstr "?Alexa, what’s the weather"
+
+#: 
+msgctxt "AlexaTitleHelpAndFeedback"
+msgid "Help and feedback"
+msgstr "Help and feedback"
+
+#: 
+msgctxt "AlexaForTheHelp"
+msgid "For the help visit"
+msgstr "For the help visit"
+
+#: 
+msgctxt "AlexaToFeedback"
+msgid "To provide feedback, please email"
+msgstr "To provide feedback, please email"
+
+#: 
+msgctxt "AlexaNavigationExampleText1"
+msgid "”Alexa, navigate to Sant’Agata Bolognese, Italy.”"
+msgstr "Alexa, take me to Via Modena,12, Sant'Agata Bolognese"
+
+#: 
+msgctxt "AlexaNavigationExampleText2"
+msgid "”Alexa, look for a Japanese restaurant close by.”"
+msgstr "Alexa, take me to the airport"
+
+#: 
+msgctxt "AlexaNavigationExampleText3"
+msgid "”Alexa, find me a gas station nearby.”"
+msgstr "Alexa, find a nearby gas station"
+
+#: 
+msgctxt "AlexaToUseAlexa"
+msgid "To use Alexa, you must sign in to\n"
+"Amazon."
+msgstr "To use Alexa, you must sign in to Amazon"
+
+#: 
+msgctxt "AlexaGoTo"
+msgid "Go to"
+msgstr "Go to"
+
+#: 
+msgctxt "AlexaAnd"
+msgid "and"
+msgstr "and"
+
+#: 
+msgctxt "AlexaEnterThisCode"
+msgid "enter this code:"
+msgstr ":enter this code"
+
+#: 
+msgctxt "AlexaHandsFreeListening"
+msgid "Hands free listening"
+msgstr "Hands free listening"
+
+#: 
+msgctxt "AlexaNotifications"
+msgid "Notifications"
+msgstr "Notifications"
+
+#: 
+msgctxt "AlexaStartOfRequestSound"
+msgid "Start of request sound"
+msgstr "Start of request sound"
+
+#: 
+msgctxt "AlexaEndOfRequestSound"
+msgid "End of request sound"
+msgstr "End of request sound"
+
+#: 
+msgctxt "AlexaMicrophone"
+msgid "Microphone"
+msgstr "Microphone"
+
+#: 
+msgctxt "ActiveWakeWorld"
+msgid "Active wake world"
+msgstr "Active wake world"
+
+#: 
+msgctxt "AlexaAlarmsAndTimers"
+msgid "Alarms and timers"
+msgstr "Alarms and timers"
+
+#: 
+msgctxt "AlexaSmartHome"
+msgid "Smart home"
+msgstr "SMART HOME"
+
+#: 
+msgctxt "AlexaSmartHomeExampleText1"
+msgid "\"Alexa, turn on the porch lights.\""
+msgstr "Alexa, turn on the porch lights"
+
+#: 
+msgctxt "AlexaSmartHomeExampleText2"
+msgid "\"Alexa, lock the front door.\""
+msgstr "Alexa, lock the front door"
+
+#: 
+msgctxt "AlexaSmartHomeExampleText3"
+msgid "\"Alexa, close the garage door.\""
+msgstr "Alexa, close the garage door"
+
+#: 
+msgctxt "AlexaSmartHomeExampleText4"
+msgid "Available interactions depend on your Smart Home devices."
+msgstr "Available interactions depend on your Smart Home devices"
+
+#: 
+msgctxt "AlexaTitleThingsToTry"
+msgid "Things to try"
+msgstr "Things to try"
+
+#: 
+msgctxt "AlexaGettingStartedButton"
+msgid "GETTING STARTED"
+msgstr "Getting started"
+
+#: 
+msgctxt "AlexaVehicleButton"
+msgid "VEHICLE"
+msgstr "VEHICLE"
+
+#: 
+msgctxt "AlexaEntertainmentButton"
+msgid "ENTERTAINMENT"
+msgstr "ENTERTAINMENT"
+
+#: 
+msgctxt "AlexaNavigationButton"
+msgid "NAVIGATION"
+msgstr "ملاحة"
+
+#: 
+msgctxt "AlexaCommunicationButton"
+msgid "COMMUNICATION"
+msgstr "COMMUNICATION"
+
+#: 
+msgctxt "AlexaWeatherButton"
+msgid "WEATHER"
+msgstr "WEATHER"
+
+#: 
+msgctxt "AlexaSmartHomeButton"
+msgid "SMART HOME"
+msgstr "SMART HOME"
+
+#: 
+msgctxt "AlexaTrainingText1"
+msgid "To use Alexa, simply say “Alexa”. Try:"
+msgstr ":To use Alexa, simply say “Alexa”. Try"
+
+#: 
+msgctxt "AlexaTrainingText2"
+msgid "“Alexa, find a nearby gas station.”\n"
+"“Alexa, play music.”\n"
+"“Alexa, call Erin’s cell phone.”\n"
+"“Alexa, what’s the weather?”"
+msgstr "Alexa, find a nearby gas station.”\n"
+"\"\n"
+"Alexa, play music.”\n"
+"\"\n"
+"Alexa, call Erin’s cell phone.”\n"
+"\"\n"
+"\"?Alexa, what’s the weather\""
+
+#: 
+msgctxt "AlexaTrainingText3"
+msgid "To learn more and access additional features, \n"
+"download the Alexa app on your phone."
+msgstr "To learn more and access additional features, download the Amazon Alexa App"
+
+#: 
+msgctxt "AlexaTitleVehicle"
+msgid "Vehicle"
+msgstr "VEHICLE"
+
+#: 
+msgctxt "AlexaVehicleExampleText1"
+msgid "\"Alexa, show my performance.\""
+msgstr "Alexa, show my performance"
+
+#: 
+msgctxt "AlexaVehicleExampleText2"
+msgid "\"Alexa, I’m cold.\""
+msgstr "Alexa, I’m cold"
+
+#: 
+msgctxt "AlexaVehicleExampleText3"
+msgid "\"Alexa, set fan speed to three.\""
+msgstr "Alexa, set fan speed to three"
+
+#: 
+msgctxt "AlexaTitleWeather"
+msgid "Weather"
+msgstr "WEATHER"
+
+#: 
+msgctxt "AlexaWeatherExampleText1"
+msgid "\"Alexa, how's the weather?\""
+msgstr "?Alexa, how’s the weather"
+
+#: 
+msgctxt "AlexaWeatherExampleText2"
+msgid "\"Alexa, will it rain today?\""
+msgstr "?Alexa, will it rain today"
+
+#: 
+msgctxt "AlexaWeatherExampleText3"
+msgid "\"Alexa, what’s the weather forecast for Sant’Agata Bolognese?\""
+msgstr "?Alexa, what's the weather in Honolulu"
+
+#: 
+msgctxt "EnrollmentTitlePrivacyPolicy"
+msgid "Privacy policy"
+msgstr "سياسة الخـصـوصـيـة"
+
+#: 
+msgctxt "ConnectivityDiscalimerFirstPart"
+msgid "Only use the Infotainment system (LIS) when traffic conditions permit and always in a way that allows you to maintain complete control of your vehicle for your safety and the safety of others.\n"
+"The navigation system is not updated in real time; therefore, always pay attention to road and traffic signs.\n"
+"\n"
+"See Owner’s Handbook"
+msgstr "ن أجل سلامتك وسلامة الآخرين، استخدم نظام (LIS) المعلومات والترفيه عندما تكون أحوال المرور مناسبة فقط، وبصورة تتيح لك دائمًا الحفاظ على تحكم كامل في سيارتك.\n"
+"نظام الملاحة غير مُحَدَّث آنيًا، لذا يجب الانتباه إلى الطريق واللافتات المرورية باستمرار.\n"
+"\n"
+"الاطلاع على كتيب المستخدم"
+
+#: 
+msgctxt "ConnectivityDiscalimerSecondPart"
+msgid "This vehicle is equipped with Connected\n"
+"Services that could use vehicle and user data when active. Options and additional information can be found in the Lamborghini Connect settings menu."
+msgstr "هذه السيارة مزودة بخدمات متصلة \n"
+"يمكنها استخدام بيانات السيارة والمستخدم عندما تكون نشطة. هذه السيارة مزودة بخدمات متصلة\n"
+"يمكنها استخدام بيانات السيارة والمستخدم عندما تكون نشطة."
+
+#: 
+msgctxt "ConnectivityFirstTitleDiscalimer"
+msgid "Driver's distraction disclaimer"
+msgstr "إخلاء المسئولية من تشتت السائق"
+
+#: 
+msgctxt "ConnectivitySecondTitleDiscalimer"
+msgid "Data usage"
+msgstr "استخدام البيانات"
+
+#: 
+msgctxt "EnrollmentUserManagement"
+msgid "User Management"
+msgstr "إدارة المستخدم"
+
+#: 
+msgctxt "EnrollmentPrivacyMode"
+msgid "Privacy Mode"
+msgstr "وضع الخصوصية"
+
+#: 
+msgctxt "EnrollmentTracking"
+msgid "- Tracking"
+msgstr "- التتبع"
+
+#: 
+msgctxt "EnrollmentLocation"
+msgid "- Location"
+msgstr "- الموقع"
+
+#: 
+msgctxt "EnrollmentVehicleExperience"
+msgid "- Vehicle Experience"
+msgstr "- تجربة السيارة"
+
+#: 
+msgctxt "EnrollmentTermsAndConditions"
+msgid "Terms and conditions"
+msgstr "الشروط والأحكام"
+
+#: 
+msgctxt "EnrollmentPrivacyPolicy"
+msgid "Privacy policy"
+msgstr "سياسة الخـصـوصـيـة"
+
+#: 
+msgctxt "EnrollmentConnectivityReset"
+msgid "Connectivity reset"
+msgstr "إعادة تعيين الاتصال"
+
+#: 
+msgctxt "EnrollmentExpirationDate"
+msgid "Expiration date"
+msgstr "تاريخ انتهاء الصلاحية"
+
+#: 
+msgctxt "EnrollmentPairingCode"
+msgid "Pairing code"
+msgstr "كود الإقران"
+
+#: 
+msgctxt "EnrollmentTitleTermsAndConditions"
+msgid "Terms and conditions"
+msgstr "الشروط والأحكام"
+
+#: 
+msgctxt "EnrollmentTitleLocation"
+msgid "Location"
+msgstr "الموقع"
+
+#: 
+msgctxt "EnrollmentTitleTracking"
+msgid "Tracking"
+msgstr "التتبع"
+
+#: 
+msgctxt "EnrollmentTitleVehicleExperience"
+msgid "Vehicle Experience"
+msgstr "تجربة السيارة"
+
+#: 
+msgctxt "EnrollmentTitleUserManagement"
+msgid "User management"
+msgstr "إدارة المستخدم"
+
+#: 
+msgctxt "EnrollmentPairMainUser"
+msgid "Pair main user"
+msgstr "إقران المستخدم الرئيسي"
+
+#: 
+msgctxt "EnrollmentMainUser"
+msgid "Main user"
+msgstr "المستخدم الرئيسي"
+
+#: 
+msgctxt "EnrollmentSecondaryUser"
+msgid "Secondary users"
+msgstr "المستخدمون الثانويون"
+
+#: 
+msgctxt "EnrollmentTitleUserManagementInfo"
+msgid "User Management info"
+msgstr "معلومات إدارة المستخدم"
+
+#: 
+msgctxt "EnrollmentUserManagementInfoText"
+msgid "You must be an authorised user of this vehicle to use vehicle-related Lamborghini Connect services.\n"
+"The first step is to pair the main user with this vehicle using the pairing code that you can find in the Lamborghini Unica APP. \n"
+"Through the APP, the main user can then authorise additional secondary users.\n"
+"The Access Credentials for the Lamborghini Unica APP can be retrieved by contacting the Customer Care or your dealer.\n"
+"Please note that by performing a Connectivity reset, you will remove the main and secondary users and revoke all connectivity related authorisations.\n"
+"The vehicle-related Lamborghini Connect services can then no longer be used."
+msgstr "يجب أن تكون مستخدمًا معتمدًا لهذه السيارة لاستخدام خدمات Lamborghini Connect المتعلقة بالمركبة.\n"
+"الخطوة الأولى هي إقران المستخدم الرئيسي بهذه السيارة باستخدام رمز الإقران الذي يمكنك العثور عليه في تطبيق Lamborghini Unica\n"
+"\n"
+"من خلال التطبيق، يمكن للمستخدم الرئيسي السماح لمستخدمين ثانويين إضافيين.\n"
+"يمكن الحصول على بيانات اعتماد الوصول لتطبيقLamborghini Unica من خلال الاتصال بخدمة العملاء أو وكيلك.\n"
+"يرجى ملاحظة أنه من خلال إجراء إعادة تعيين الاتصال، ستقوم بإزالة المستخدمين الرئيسيين والثانويين وإلغاء جميع الأذونات المتعلقة بالاتصال.\n"
+"\"لم يعد من الممكن بعد ذلك استخدام خدمات  Lamborghini Connect المتصلة بالمركبة."
+
+#: 
+msgctxt "LamborghiniConnect"
+msgid "Lamborghini Connect"
+msgstr "Lamborghini Connect"
+
+#: 
+msgctxt "AmazonAlexa"
+msgid "Amazon Alexa"
+msgstr "Amazon Alexa"
+
+#: 
+msgctxt "EnrollmentFactoryReset"
+msgid "Factory reset"
+msgstr "العودة إلى إعدادات المصنع"
+
+#: 
+msgctxt "AlexaDeleteAlarmTimer"
+msgid "Do you want to delete this item?"
+msgstr "?Do you want to delete this item"
+
+#: 
+msgctxt "AlexaLanguagePrompt"
+msgid "This language is not supported by Alexa. Do you want to\n"
+"interact with Alexa in English?"
+msgstr "هذه اللغة غير مدعومة من  أمازون أليكسا. هل تريد \n"
+"\"التفاعل مع أليكسا باللغة الإنجليزية؟"
+
+#: 
+msgctxt "AlexaNoConnection"
+msgid "No internet connection.\n"
+"Please check your connection\n"
+"and try again."
+msgstr "No internet connection.\n"
+"Please check your connection\n"
+"and try again"
+
+#: 
+msgctxt "AlexaNoMainUser"
+msgid "Main user not available.\n"
+"To use Alexa, pair a main user in the\n"
+"Lamborghini Connect settings. "
+msgstr "Main user not available.\n"
+"To use Alexa, pair a main user in the\n"
+"Lamborghini Connect settings"
+
+#: 
+msgctxt "AlexaSignInError"
+msgid "There was an issue setting up Alexa.\n"
+"Please try again."
+msgstr "There was an issue setting up Alexa.\n"
+"Please check your data connection and try again"
+
+#: 
+msgctxt "AlexaSignOutText"
+msgid "Do you want to\n"
+"sign out?"
+msgstr "?Do you want to sign out"
+
+#: 
+msgctxt "AlexaSignInPrompt"
+msgid "Your Amazon Alexa account is not\n"
+"linked. Do you want to sign in to\n"
+"your Alexa account now?"
+msgstr "Your Amazon Alexa account is not signed in. \n"
+"?Do you want to sign in now"
+
+#: 
+msgctxt "AlexaWakeWord"
+msgid "Active wake word"
+msgstr "Active wake word"
+
+#: 
+msgctxt "EnrollmentConnectivityInfo"
+msgid "\n"
+"To activate the Connected Services, please disable the Privacy Mode in Lamborghini Connect settings.\n"
+" \n"
+"Do you want to proceed?"
+msgstr "لتنشيط الخدمات المتصلة، يرجى تعطيل وضع الخصوصية في إعدادات اتصال Lamborghini Connect\n"
+"\n"
+"هل تريد المتابعة؟"
+
+#: 
+msgctxt "EnrollmentConnectivityResetText"
+msgid "CONNECTIVITY RESET\n"
+"Main and secondary users will be removed from the vehicle. All connectivity related authorisations \n"
+"will be revoked and Connected \n"
+"Services will be disabled.\n"
+"\n"
+"Are you sure you want to proceed?"
+msgstr "إعادة تعيين الاتصال \n"
+"ستتم إزالة المستخدمين الرئيسيين والثانويين من السيارة. سيتم إلغاء جميع الأذونات المرتبطة بالاتصال \n"
+"وسيتم تعطيل الخدمات المتصلة\n"
+"هل أنت متأكد من رغبتك في المتابعة؟"
+
+#: 
+msgctxt "EnrollmentExpirationInfo-Text1"
+msgid "The Connected Services will expire in"
+msgstr "ستنتهي الخدمات المتصلة في \n"
+"أيام.\n"
+"يرجى الاتصال بوكيل Lamborghini لتجديد اشتراكك."
+
+#: 
+msgctxt "EnrollmentNewDisclaimer"
+msgid "In order to use Lamborghini Connect\n"
+"services, you need to accept the terms and conditions/privacy policy. \n"
+"\n"
+"Do you want to proceed?"
+msgstr "استخدام خدمات Lamborghini Connect،\n"
+"يلزمك قبول الشروط والأحكام / سياسة الخصوصية.\n"
+"\n"
+"هل تريد المتابعة؟"
+
+#: 
+msgctxt "EnrollmentNoConnection"
+msgid "Function not available. \n"
+"Try again later..."
+msgstr "وظيفة غير متوفرة.\n"
+"أعد المحاولة لاحقًا ..."
+
+#: 
+msgctxt "EnrollmentConnectivityResetSuccecssful"
+msgid "Reset successful.\n"
+"The system will reboot\n"
+"in a few seconds..."
+msgstr "تمت إعادة التعيين بنجاح\n"
+"سيتم إعادة تشغيل النظام في بضع ثوانٍ"
+
+#: 
+msgctxt "EnrollmentWrongCode"
+msgid "Invalid pairing code.\n"
+"Please try again."
+msgstr "مز الإقران غير صالح.\n"
+"يرجى المحاولة مرة أخرى."
+
+#: 
+msgctxt "EnrollmentDriverDistractionDisclaimer"
+msgid "Only use the Infotainment system (LIS) when traffic conditions permit and always in a way that allows you to maintain complete control of your vehicle for your safety and the safety of others.\n"
+"The navigation system is not updated in real time; therefore, always pay attention to road and traffic signs.\n"
+"\n"
+"See Owner’s Handbook"
+msgstr "ن أجل سلامتك وسلامة الآخرين، استخدم نظام (LIS) المعلومات والترفيه عندما تكون أحوال المرور مناسبة فقط، وبصورة تتيح لك دائمًا الحفاظ على تحكم كامل في سيارتك.\n"
+"نظام الملاحة غير مُحَدَّث آنيًا، لذا يجب الانتباه إلى الطريق واللافتات المرورية باستمرار.\n"
+"\n"
+"الاطلاع على كتيب المستخدم"
+
+#: 
+msgctxt "EnrollmentTitleDataUsage"
+msgid "Data usage"
+msgstr "استخدام البيانات"
+
+#: 
+msgctxt "EnrollmentDriverDistractionDataUsage"
+msgid "This vehicle is equipped with Connected\n"
+"Services that could use vehicle and user\n"
+"data when active. Options and additional\n"
+"information can be found in the Lamborghini \n"
+"Connect settings menu."
+msgstr "هذه السيارة مزودة بخدمات متصلة \n"
+"يمكنها استخدام بيانات السيارة والمستخدم عندما تكون نشطة.\n"
+"يمكن العثور على الخيارات والمعلومات الإضافية في قائمة إعدادات\n"
+" Lamborghini \n"
+"Connect."
+
+#: 
+msgctxt "EnrollmentResetError"
+msgid "The process ended with an error. \n"
+"Try again later..."
+msgstr "انتهت العملية بخطأ.\n"
+"أعد المحاولة لاحقًا ..."
+
+#: 
+msgctxt "EnrollmentResetSuccecssful"
+msgid "Reset successful"
+msgstr "إعادة تعيين ناجحة"
+
+#: 
+msgctxt "EnrollmentConfirmReset"
+msgid "FACTORY RESET\n"
+"\n"
+"Are you sure you want to proceed?"
+msgstr "العودة إلى إعدادات المصنع\n"
+"\n"
+"\\vهل أنت متأكد أنك تريد المتابعة؟\\v"
+
+#: 
+msgctxt "EnrollmentTitleFactoryReset"
+msgid "Factory reset"
+msgstr "العودة إلى إعدادات المصنع"
+
+#: 
+msgctxt "EnrollmentFacotryResetWarning"
+msgid "Warning"
+msgstr "تحذير"
+
+#: 
+msgctxt "EnrollmentFactoryResetText"
+msgid "To perform a factory reset, turn on the desired\n"
+"slider and confirm by pressing Reset. \n"
+"  \n"
+"Local data: All settings and data present on the \n"
+"vehicle’s infotainment will be deleted.\n"
+"\n"
+"Connectivity reset: Main and secondary users will be removed from the vehicle.\n"
+"All connectivity related authorisations will be revoked and Connected Services will be disabled."
+msgstr "لإجراء إعادة ضبط المصنع، شغّل شريط التمرير \n"
+"المطلوب، وقم بالتأكيد بضغط إعادة التعيين.\n"
+"\n"
+"البيانات المحلية: سيتم حذف جميع الإعدادات والبيانات الموجودة على \n"
+"نظام الترفيه في السيارة.\n"
+"\n"
+"إعادة تعيين الاتصال: ستتم إزالة المستخدمين الرئيسيين والثانويين من السيارة.\n"
+"سيتم إلغاء جميع الأذونات المتعلقة بالاتصال، وسيتم تعطيل الخدمات المتصلة."
+
+#: 
+msgctxt "EnrollmentFactoryResetLocalData"
+msgid "Local data"
+msgstr "البيانات المحلية"
+
+#: 
+msgctxt "EnrollmentFactoryResetConnectivityReset"
+msgid "Connectivity reset"
+msgstr "إعادة تعيين الاتصال"
+
+#: 
+msgctxt "EnrollmentMediaMemoryManagementDeleteCompleted"
+msgid "Delete completed"
+msgstr "تم الحذف"
+
+#: 
+msgctxt "AlexaContactsPrompt"
+msgid " Some Amazon Alexa features are\n"
+"only available if you upload your\n"
+"phone’s contacts.\n"
+"\n"
+"Do you want to upload your phone’s contacts now?"
+msgstr "Upload contacts?\n"
+"\n"
+"To call contacts on your connected phone, upload them to the Amazon cloud"
+
+#: 
+msgctxt "AlexaContactsSuccessful"
+msgid "Your phone contacts are\n"
+"now shared with \n"
+"Alexa."
+msgstr "Your phone contacts are\n"
+"now shared with\n"
+"Alexa"
+
+#: 
+msgctxt "GeneralSettingsSystemMaintenance"
+msgid "System maintenance"
+msgstr "صيانة النظام"
+
+#: 
+msgctxt "SystemMaintenanceSoftwareUpdate"
+msgid "Software update"
+msgstr "Software Update"
+
+#: 
+msgctxt "GeneralSettingsUpdateSuccessful"
+msgid "The system has been\n"
+"updated successfully."
+msgstr "اكتمل تحديث البرنامج\n"
+"ستتم إعادة تشغيل النظام في بضع ثوانٍ.."
+
+#: 
+msgctxt "GeneralSettingsUpdateFailed"
+msgid "Software update failed.\n"
+"The system returned to\n"
+"its previous state."
+msgstr "فشل تحديث البرنامج.\n"
+"عاد النظام إلى \n"
+"حالته السابقة."
+
+#: 
+msgctxt "GeneralSettingsUpdateStart"
+msgid "Starting software update…\n"
+"The system will reboot automatically when the process is finished."
+msgstr "تحديث البرنامج..."
+
+#: 
+msgctxt "GeneralSettingsVehiclePreconditions"
+msgid "The software update process\n"
+"cannot be started. Please check that all the required preconditions are fulfilled."
+msgstr "لا يمكن بدء عملية\n"
+"تحديث البرنامج. يرجى التحقق من استيفاء جميع الشروط المسبقة المطلوبة."
+
+#: 
+msgctxt "Install"
+msgid "Install"
+msgstr "تثبيت"
+
+#: 
+msgctxt "GeneralSettingsSoftwareUpdateInfo"
+msgid "Before starting the updating process, please check that:\n"
+"\n"
+"- The vehicle is safely parked, parking brake is applied and (N) or (P) gear is selected.\n"
+"- The instrument cluster is switched on.\n"
+"- Enough battery power is available.\n"
+"\n"
+"Please note that during the updating process, the Lamborghini Infotainment System (LIS) will be temporary unavailable and will be automatically rebooted when the process is finished.\n"
+"\n"
+"Are you sure you want to proceed?"
+msgstr "قبل بدء عملية التحديث، يرجى التحقق مما يلي: \n"
+"\n"
+"- السيارة متوقفة بأمان، يتم استخدام فرامل الانتظار واختيار (N) أو (P) الترس.\n"
+"- لوحة العدادات قيد التشغيل.\n"
+" - تتوفر طاقة كافية للبطارية.\n"
+"\n"
+"يرجى ملاحظة أنه أثناء عملية التحديث، سيكون نظام Lamborghini Infotainment (LIS) غير متاح مؤقتًا،  وسيتم إعادة تشغيله تلقائيًا عندما تنتهي العملية.\n"
+"\n"
+"هل أنت متأكد أنك تريد المتابعة؟"
+
+#: 
+msgctxt "GeneralSettingsTitleReleaseNotes"
+msgid "Release notes"
+msgstr "ملاحظات الإصدار"
+
+#: 
+msgctxt "GeneralSettingsNewUpdate"
+msgid "SOFTWARE UPDATE\n"
+"\n"
+"A new software update has been\n"
+"downloaded.\n"
+"Do you want to install it now?"
+msgstr "تحديث البرنامج \n"
+"\n"
+"تم تنزيل تحديث برنامج جديد .هل تريد تثبيته الآن؟"
+
+#: 
+msgctxt "GeneralSettingsNoUpdate"
+msgid "No update available."
+msgstr "لا يوجد تحديث متاح."
+
+#: 
+msgctxt "AlexaShareLocation"
+msgid "Share location"
+msgstr "Share location"
+
+#: 
+msgctxt "AlexaContactSharing"
+msgid "Contact sharing"
+msgstr "Contact sharing"
+
+#: 
+msgctxt "AlexaContactList"
+msgid "Contact list"
+msgstr "Contact list"
+
