@@ -77,7 +77,7 @@ msgstr "كلمة المرور خاطئة"
 #: 
 msgctxt "CarSettings"
 msgid "Vehicle"
-msgstr "VEHICLE"
+msgstr ""
 
 #: 
 msgctxt "ServicingAndChecks"
@@ -4114,4 +4114,8 @@ msgstr "Contact sharing"
 msgctxt "AlexaContactList"
 msgid "Contact list"
 msgstr "Contact list"
+
+#: 
+msgid "hai"
+msgstr ""
 
